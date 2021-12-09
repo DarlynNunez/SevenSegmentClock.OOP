@@ -12,14 +12,14 @@ namespace SevenSegmentClock
 {
     public partial class Form1 : Form
     {
-        Color RedOn = Color.Red;
-        Color RedOff = ColorTranslator.FromHtml("#261010");
+        Color RedOn = ColorTranslator.FromHtml("#00FFFF");
+        Color RedOff = Color.Transparent;
 
         Color GreenOn = ColorTranslator.FromHtml("#09E21F");
-        Color GreenOff = ColorTranslator.FromHtml("#0B1A0D");
-        
+        Color GreenOff = Color.Transparent;
+
         Color BlueOn = ColorTranslator.FromHtml("#0E1EFF");
-        Color BlueOff = ColorTranslator.FromHtml("#101122");
+        Color BlueOff = Color.Transparent;
 
         Color backgroundColor = Color.Transparent;
 
