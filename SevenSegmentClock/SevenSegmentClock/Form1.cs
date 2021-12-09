@@ -21,7 +21,7 @@ namespace SevenSegmentClock
         Color BlueOn = ColorTranslator.FromHtml("#0E1EFF");
         Color BlueOff = ColorTranslator.FromHtml("#101122");
 
-        Color backgroundColor = Color.Black;
+        Color backgroundColor = Color.Transparent;
 
         int flag = 1;
         string hourFormat = "hh";
@@ -1481,6 +1481,16 @@ namespace SevenSegmentClock
         private void btnCloseForm_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void labelMeridiemPM_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelMeridiemAM_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
