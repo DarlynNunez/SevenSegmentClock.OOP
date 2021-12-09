@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\bin\Debug\SevenSegmentClock.exe.config
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\bin\Debug\SevenSegmentClock.exe
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\bin\Debug\SevenSegmentClock.pdb
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.Form1.resources
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.exe
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.pdb
