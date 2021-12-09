@@ -15,7 +15,7 @@ namespace SevenSegmentClock
         Color RedOn = ColorTranslator.FromHtml("#00FFFF");
         Color RedOff = Color.Transparent;
 
-        Color GreenOn = ColorTranslator.FromHtml("#09E21F");
+        Color GreenOn = ColorTranslator.FromHtml("#0E1EFF");
         Color GreenOff = Color.Transparent;
 
         Color BlueOn = ColorTranslator.FromHtml("#0E1EFF");
@@ -1489,6 +1489,23 @@ namespace SevenSegmentClock
         }
 
         private void labelMeridiemAM_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            if (hourFormat == "HH")
+            {
+                hourFormat = "hh";
+            }
+            else if (hourFormat == "hh")
+            {
+                hourFormat = "HH";
+            }
+        }
+
+        private void btn3P_Click(object sender, EventArgs e)
         {
 
         }
