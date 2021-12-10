@@ -8,3 +8,4 @@ C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegm
 C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.exe
 C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.pdb
+C:\Users\ADMIN\Desktop\OOP\SevenSegmentClock.OOP\SevenSegmentClock.OOP\SevenSegmentClock\SevenSegmentClock\obj\Debug\SevenSegmentClock.csproj.AssemblyReference.cache

@@ -228,7 +228,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs2F
             // 
-            this.btnHrs2F.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs2F.BackColor = System.Drawing.Color.Black;
             this.btnHrs2F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs2F.FlatAppearance.BorderSize = 0;
             this.btnHrs2F.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -241,7 +241,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs2E
             // 
-            this.btnHrs2E.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs2E.BackColor = System.Drawing.Color.Black;
             this.btnHrs2E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs2E.FlatAppearance.BorderSize = 0;
             this.btnHrs2E.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -254,7 +254,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs1F
             // 
-            this.btnHrs1F.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs1F.BackColor = System.Drawing.Color.Black;
             this.btnHrs1F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs1F.FlatAppearance.BorderSize = 0;
             this.btnHrs1F.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -267,7 +267,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs2B
             // 
-            this.btnHrs2B.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs2B.BackColor = System.Drawing.Color.Black;
             this.btnHrs2B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs2B.FlatAppearance.BorderSize = 0;
             this.btnHrs2B.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -280,7 +280,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs1E
             // 
-            this.btnHrs1E.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs1E.BackColor = System.Drawing.Color.Black;
             this.btnHrs1E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs1E.FlatAppearance.BorderSize = 0;
             this.btnHrs1E.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -293,7 +293,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs1B
             // 
-            this.btnHrs1B.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs1B.BackColor = System.Drawing.Color.Black;
             this.btnHrs1B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs1B.FlatAppearance.BorderSize = 0;
             this.btnHrs1B.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -306,7 +306,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs2C
             // 
-            this.btnHrs2C.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs2C.BackColor = System.Drawing.Color.Black;
             this.btnHrs2C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs2C.FlatAppearance.BorderSize = 0;
             this.btnHrs2C.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -319,7 +319,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs1C
             // 
-            this.btnHrs1C.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs1C.BackColor = System.Drawing.Color.Black;
             this.btnHrs1C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs1C.FlatAppearance.BorderSize = 0;
             this.btnHrs1C.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -332,7 +332,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs2A
             // 
-            this.btnHrs2A.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs2A.BackColor = System.Drawing.Color.Black;
             this.btnHrs2A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs2A.FlatAppearance.BorderSize = 0;
             this.btnHrs2A.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -345,7 +345,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs1A
             // 
-            this.btnHrs1A.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs1A.BackColor = System.Drawing.Color.Black;
             this.btnHrs1A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs1A.FlatAppearance.BorderSize = 0;
             this.btnHrs1A.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -358,7 +358,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs2G
             // 
-            this.btnHrs2G.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs2G.BackColor = System.Drawing.Color.Black;
             this.btnHrs2G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs2G.FlatAppearance.BorderSize = 0;
             this.btnHrs2G.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -371,7 +371,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs1G
             // 
-            this.btnHrs1G.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs1G.BackColor = System.Drawing.Color.Black;
             this.btnHrs1G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs1G.FlatAppearance.BorderSize = 0;
             this.btnHrs1G.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -384,7 +384,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs2D
             // 
-            this.btnHrs2D.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs2D.BackColor = System.Drawing.Color.Black;
             this.btnHrs2D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs2D.FlatAppearance.BorderSize = 0;
             this.btnHrs2D.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -397,7 +397,7 @@ namespace SevenSegmentClock
             // 
             // btnHrs1D
             // 
-            this.btnHrs1D.BackColor = System.Drawing.Color.DimGray;
+            this.btnHrs1D.BackColor = System.Drawing.Color.Black;
             this.btnHrs1D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnHrs1D.FlatAppearance.BorderSize = 0;
             this.btnHrs1D.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -410,7 +410,7 @@ namespace SevenSegmentClock
             // 
             // btnMin2F
             // 
-            this.btnMin2F.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin2F.BackColor = System.Drawing.Color.Black;
             this.btnMin2F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin2F.FlatAppearance.BorderSize = 0;
             this.btnMin2F.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -423,7 +423,7 @@ namespace SevenSegmentClock
             // 
             // btnMin2E
             // 
-            this.btnMin2E.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin2E.BackColor = System.Drawing.Color.Black;
             this.btnMin2E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin2E.FlatAppearance.BorderSize = 0;
             this.btnMin2E.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -436,7 +436,7 @@ namespace SevenSegmentClock
             // 
             // btnSec2F
             // 
-            this.btnSec2F.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec2F.BackColor = System.Drawing.Color.Black;
             this.btnSec2F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec2F.FlatAppearance.BorderSize = 0;
             this.btnSec2F.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -449,7 +449,7 @@ namespace SevenSegmentClock
             // 
             // btnMin1F
             // 
-            this.btnMin1F.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin1F.BackColor = System.Drawing.Color.Black;
             this.btnMin1F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin1F.FlatAppearance.BorderSize = 0;
             this.btnMin1F.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -462,7 +462,7 @@ namespace SevenSegmentClock
             // 
             // btnSec2E
             // 
-            this.btnSec2E.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec2E.BackColor = System.Drawing.Color.Black;
             this.btnSec2E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec2E.FlatAppearance.BorderSize = 0;
             this.btnSec2E.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -475,7 +475,7 @@ namespace SevenSegmentClock
             // 
             // btnMin2B
             // 
-            this.btnMin2B.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin2B.BackColor = System.Drawing.Color.Black;
             this.btnMin2B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin2B.FlatAppearance.BorderSize = 0;
             this.btnMin2B.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -488,7 +488,7 @@ namespace SevenSegmentClock
             // 
             // btnSec1F
             // 
-            this.btnSec1F.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec1F.BackColor = System.Drawing.Color.Black;
             this.btnSec1F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec1F.FlatAppearance.BorderSize = 0;
             this.btnSec1F.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -502,7 +502,7 @@ namespace SevenSegmentClock
             // 
             // btnMin1E
             // 
-            this.btnMin1E.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin1E.BackColor = System.Drawing.Color.Black;
             this.btnMin1E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin1E.FlatAppearance.BorderSize = 0;
             this.btnMin1E.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -515,7 +515,7 @@ namespace SevenSegmentClock
             // 
             // btnSec2B
             // 
-            this.btnSec2B.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec2B.BackColor = System.Drawing.Color.Black;
             this.btnSec2B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec2B.FlatAppearance.BorderSize = 0;
             this.btnSec2B.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -528,7 +528,7 @@ namespace SevenSegmentClock
             // 
             // btnMin1B
             // 
-            this.btnMin1B.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin1B.BackColor = System.Drawing.Color.Black;
             this.btnMin1B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin1B.FlatAppearance.BorderSize = 0;
             this.btnMin1B.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -541,7 +541,7 @@ namespace SevenSegmentClock
             // 
             // btnSec1E
             // 
-            this.btnSec1E.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec1E.BackColor = System.Drawing.Color.Black;
             this.btnSec1E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec1E.FlatAppearance.BorderSize = 0;
             this.btnSec1E.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -555,7 +555,7 @@ namespace SevenSegmentClock
             // 
             // btnSec1B
             // 
-            this.btnSec1B.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec1B.BackColor = System.Drawing.Color.Black;
             this.btnSec1B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec1B.FlatAppearance.BorderSize = 0;
             this.btnSec1B.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -569,7 +569,7 @@ namespace SevenSegmentClock
             // 
             // btnMin2C
             // 
-            this.btnMin2C.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin2C.BackColor = System.Drawing.Color.Black;
             this.btnMin2C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin2C.FlatAppearance.BorderSize = 0;
             this.btnMin2C.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -582,7 +582,7 @@ namespace SevenSegmentClock
             // 
             // btnSec2C
             // 
-            this.btnSec2C.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec2C.BackColor = System.Drawing.Color.Black;
             this.btnSec2C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec2C.FlatAppearance.BorderSize = 0;
             this.btnSec2C.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -595,7 +595,7 @@ namespace SevenSegmentClock
             // 
             // btnMin1C
             // 
-            this.btnMin1C.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin1C.BackColor = System.Drawing.Color.Black;
             this.btnMin1C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin1C.FlatAppearance.BorderSize = 0;
             this.btnMin1C.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -608,7 +608,7 @@ namespace SevenSegmentClock
             // 
             // btnSec1C
             // 
-            this.btnSec1C.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec1C.BackColor = System.Drawing.Color.Black;
             this.btnSec1C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec1C.FlatAppearance.BorderSize = 0;
             this.btnSec1C.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -622,7 +622,7 @@ namespace SevenSegmentClock
             // 
             // btnMin2A
             // 
-            this.btnMin2A.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin2A.BackColor = System.Drawing.Color.Black;
             this.btnMin2A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin2A.FlatAppearance.BorderSize = 0;
             this.btnMin2A.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -635,7 +635,7 @@ namespace SevenSegmentClock
             // 
             // btnSec2A
             // 
-            this.btnSec2A.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec2A.BackColor = System.Drawing.Color.Black;
             this.btnSec2A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec2A.FlatAppearance.BorderSize = 0;
             this.btnSec2A.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -648,7 +648,7 @@ namespace SevenSegmentClock
             // 
             // btnMin1A
             // 
-            this.btnMin1A.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin1A.BackColor = System.Drawing.Color.Black;
             this.btnMin1A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin1A.FlatAppearance.BorderSize = 0;
             this.btnMin1A.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -661,7 +661,7 @@ namespace SevenSegmentClock
             // 
             // btnSec1A
             // 
-            this.btnSec1A.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec1A.BackColor = System.Drawing.Color.Black;
             this.btnSec1A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec1A.FlatAppearance.BorderSize = 0;
             this.btnSec1A.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -675,7 +675,7 @@ namespace SevenSegmentClock
             // 
             // btnMin2G
             // 
-            this.btnMin2G.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin2G.BackColor = System.Drawing.Color.Black;
             this.btnMin2G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin2G.FlatAppearance.BorderSize = 0;
             this.btnMin2G.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -688,7 +688,7 @@ namespace SevenSegmentClock
             // 
             // btnSec2G
             // 
-            this.btnSec2G.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec2G.BackColor = System.Drawing.Color.Black;
             this.btnSec2G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec2G.FlatAppearance.BorderSize = 0;
             this.btnSec2G.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -701,7 +701,7 @@ namespace SevenSegmentClock
             // 
             // btnMin1G
             // 
-            this.btnMin1G.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin1G.BackColor = System.Drawing.Color.Black;
             this.btnMin1G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin1G.FlatAppearance.BorderSize = 0;
             this.btnMin1G.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -714,7 +714,7 @@ namespace SevenSegmentClock
             // 
             // btnSec1G
             // 
-            this.btnSec1G.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec1G.BackColor = System.Drawing.Color.Black;
             this.btnSec1G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec1G.FlatAppearance.BorderSize = 0;
             this.btnSec1G.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -728,7 +728,7 @@ namespace SevenSegmentClock
             // 
             // btnMin2D
             // 
-            this.btnMin2D.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin2D.BackColor = System.Drawing.Color.Black;
             this.btnMin2D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin2D.FlatAppearance.BorderSize = 0;
             this.btnMin2D.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -741,7 +741,7 @@ namespace SevenSegmentClock
             // 
             // btnSec2D
             // 
-            this.btnSec2D.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec2D.BackColor = System.Drawing.Color.Black;
             this.btnSec2D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec2D.FlatAppearance.BorderSize = 0;
             this.btnSec2D.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -754,7 +754,7 @@ namespace SevenSegmentClock
             // 
             // btnMin1D
             // 
-            this.btnMin1D.BackColor = System.Drawing.Color.DimGray;
+            this.btnMin1D.BackColor = System.Drawing.Color.Black;
             this.btnMin1D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnMin1D.FlatAppearance.BorderSize = 0;
             this.btnMin1D.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -767,7 +767,7 @@ namespace SevenSegmentClock
             // 
             // btnSec1D
             // 
-            this.btnSec1D.BackColor = System.Drawing.Color.DimGray;
+            this.btnSec1D.BackColor = System.Drawing.Color.Black;
             this.btnSec1D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnSec1D.FlatAppearance.BorderSize = 0;
             this.btnSec1D.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -787,7 +787,7 @@ namespace SevenSegmentClock
             // 
             // btnBlinker
             // 
-            this.btnBlinker.BackColor = System.Drawing.Color.DimGray;
+            this.btnBlinker.BackColor = System.Drawing.Color.Black;
             this.btnBlinker.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnBlinker.FlatAppearance.BorderSize = 0;
             this.btnBlinker.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -844,11 +844,11 @@ namespace SevenSegmentClock
             // 
             // btn1C
             // 
-            this.btn1C.BackColor = System.Drawing.Color.DimGray;
+            this.btn1C.BackColor = System.Drawing.Color.Black;
             this.btn1C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1C.FlatAppearance.BorderSize = 0;
             this.btn1C.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1C.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1C.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1C.Location = new System.Drawing.Point(219, 29);
             this.btn1C.Name = "btn1C";
             this.btn1C.Size = new System.Drawing.Size(8, 8);
@@ -858,11 +858,11 @@ namespace SevenSegmentClock
             // 
             // btn1E
             // 
-            this.btn1E.BackColor = System.Drawing.Color.DimGray;
+            this.btn1E.BackColor = System.Drawing.Color.Black;
             this.btn1E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1E.FlatAppearance.BorderSize = 0;
             this.btn1E.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1E.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1E.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1E.Location = new System.Drawing.Point(242, 29);
             this.btn1E.Name = "btn1E";
             this.btn1E.Size = new System.Drawing.Size(8, 8);
@@ -872,11 +872,11 @@ namespace SevenSegmentClock
             // 
             // btn1G
             // 
-            this.btn1G.BackColor = System.Drawing.Color.DimGray;
+            this.btn1G.BackColor = System.Drawing.Color.Black;
             this.btn1G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1G.FlatAppearance.BorderSize = 0;
             this.btn1G.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1G.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1G.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1G.Location = new System.Drawing.Point(242, 67);
             this.btn1G.Name = "btn1G";
             this.btn1G.Size = new System.Drawing.Size(8, 8);
@@ -886,11 +886,11 @@ namespace SevenSegmentClock
             // 
             // btn1A
             // 
-            this.btn1A.BackColor = System.Drawing.Color.DimGray;
+            this.btn1A.BackColor = System.Drawing.Color.Black;
             this.btn1A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1A.FlatAppearance.BorderSize = 0;
             this.btn1A.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1A.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1A.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1A.Location = new System.Drawing.Point(196, 29);
             this.btn1A.Name = "btn1A";
             this.btn1A.Size = new System.Drawing.Size(8, 8);
@@ -900,11 +900,11 @@ namespace SevenSegmentClock
             // 
             // btn1M
             // 
-            this.btn1M.BackColor = System.Drawing.Color.DimGray;
+            this.btn1M.BackColor = System.Drawing.Color.Black;
             this.btn1M.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1M.FlatAppearance.BorderSize = 0;
             this.btn1M.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1M.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1M.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1M.Location = new System.Drawing.Point(196, 105);
             this.btn1M.Name = "btn1M";
             this.btn1M.Size = new System.Drawing.Size(8, 8);
@@ -914,11 +914,11 @@ namespace SevenSegmentClock
             // 
             // btn1O
             // 
-            this.btn1O.BackColor = System.Drawing.Color.DimGray;
+            this.btn1O.BackColor = System.Drawing.Color.Black;
             this.btn1O.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1O.FlatAppearance.BorderSize = 0;
             this.btn1O.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1O.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1O.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1O.Location = new System.Drawing.Point(196, 67);
             this.btn1O.Name = "btn1O";
             this.btn1O.Size = new System.Drawing.Size(8, 8);
@@ -928,11 +928,11 @@ namespace SevenSegmentClock
             // 
             // btn1D
             // 
-            this.btn1D.BackColor = System.Drawing.Color.DimGray;
+            this.btn1D.BackColor = System.Drawing.Color.Black;
             this.btn1D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1D.FlatAppearance.BorderSize = 0;
             this.btn1D.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1D.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1D.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1D.Location = new System.Drawing.Point(227, 29);
             this.btn1D.Name = "btn1D";
             this.btn1D.Size = new System.Drawing.Size(15, 8);
@@ -942,11 +942,11 @@ namespace SevenSegmentClock
             // 
             // btn1R
             // 
-            this.btn1R.BackColor = System.Drawing.Color.DimGray;
+            this.btn1R.BackColor = System.Drawing.Color.Black;
             this.btn1R.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1R.FlatAppearance.BorderSize = 0;
             this.btn1R.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1R.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1R.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1R.Location = new System.Drawing.Point(227, 67);
             this.btn1R.Name = "btn1R";
             this.btn1R.Size = new System.Drawing.Size(15, 8);
@@ -956,11 +956,11 @@ namespace SevenSegmentClock
             // 
             // btn1J
             // 
-            this.btn1J.BackColor = System.Drawing.Color.DimGray;
+            this.btn1J.BackColor = System.Drawing.Color.Black;
             this.btn1J.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1J.FlatAppearance.BorderSize = 0;
             this.btn1J.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1J.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1J.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1J.Location = new System.Drawing.Point(227, 105);
             this.btn1J.Name = "btn1J";
             this.btn1J.Size = new System.Drawing.Size(15, 8);
@@ -970,11 +970,11 @@ namespace SevenSegmentClock
             // 
             // btn1B
             // 
-            this.btn1B.BackColor = System.Drawing.Color.DimGray;
+            this.btn1B.BackColor = System.Drawing.Color.Black;
             this.btn1B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1B.FlatAppearance.BorderSize = 0;
             this.btn1B.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1B.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1B.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1B.Location = new System.Drawing.Point(204, 29);
             this.btn1B.Name = "btn1B";
             this.btn1B.Size = new System.Drawing.Size(15, 8);
@@ -984,11 +984,11 @@ namespace SevenSegmentClock
             // 
             // btn1T
             // 
-            this.btn1T.BackColor = System.Drawing.Color.DimGray;
+            this.btn1T.BackColor = System.Drawing.Color.Black;
             this.btn1T.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1T.FlatAppearance.BorderSize = 0;
             this.btn1T.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1T.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1T.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1T.Location = new System.Drawing.Point(204, 67);
             this.btn1T.Name = "btn1T";
             this.btn1T.Size = new System.Drawing.Size(15, 8);
@@ -998,11 +998,11 @@ namespace SevenSegmentClock
             // 
             // btn1L
             // 
-            this.btn1L.BackColor = System.Drawing.Color.DimGray;
+            this.btn1L.BackColor = System.Drawing.Color.Black;
             this.btn1L.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1L.FlatAppearance.BorderSize = 0;
             this.btn1L.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1L.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1L.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1L.Location = new System.Drawing.Point(204, 105);
             this.btn1L.Name = "btn1L";
             this.btn1L.Size = new System.Drawing.Size(15, 8);
@@ -1012,11 +1012,11 @@ namespace SevenSegmentClock
             // 
             // btn1K
             // 
-            this.btn1K.BackColor = System.Drawing.Color.DimGray;
+            this.btn1K.BackColor = System.Drawing.Color.Black;
             this.btn1K.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1K.FlatAppearance.BorderSize = 0;
             this.btn1K.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1K.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1K.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1K.Location = new System.Drawing.Point(219, 105);
             this.btn1K.Name = "btn1K";
             this.btn1K.Size = new System.Drawing.Size(8, 8);
@@ -1026,11 +1026,11 @@ namespace SevenSegmentClock
             // 
             // btn1I
             // 
-            this.btn1I.BackColor = System.Drawing.Color.DimGray;
+            this.btn1I.BackColor = System.Drawing.Color.Black;
             this.btn1I.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1I.FlatAppearance.BorderSize = 0;
             this.btn1I.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1I.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1I.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1I.Location = new System.Drawing.Point(242, 105);
             this.btn1I.Name = "btn1I";
             this.btn1I.Size = new System.Drawing.Size(8, 8);
@@ -1040,11 +1040,11 @@ namespace SevenSegmentClock
             // 
             // btn1U
             // 
-            this.btn1U.BackColor = System.Drawing.Color.DimGray;
+            this.btn1U.BackColor = System.Drawing.Color.Black;
             this.btn1U.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1U.FlatAppearance.BorderSize = 0;
             this.btn1U.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1U.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1U.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1U.Location = new System.Drawing.Point(219, 67);
             this.btn1U.Name = "btn1U";
             this.btn1U.Size = new System.Drawing.Size(8, 8);
@@ -1054,11 +1054,11 @@ namespace SevenSegmentClock
             // 
             // btn1Q
             // 
-            this.btn1Q.BackColor = System.Drawing.Color.DimGray;
+            this.btn1Q.BackColor = System.Drawing.Color.Black;
             this.btn1Q.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1Q.FlatAppearance.BorderSize = 0;
             this.btn1Q.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1Q.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1Q.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1Q.Location = new System.Drawing.Point(219, 37);
             this.btn1Q.Name = "btn1Q";
             this.btn1Q.Size = new System.Drawing.Size(8, 30);
@@ -1068,11 +1068,11 @@ namespace SevenSegmentClock
             // 
             // btn1F
             // 
-            this.btn1F.BackColor = System.Drawing.Color.DimGray;
+            this.btn1F.BackColor = System.Drawing.Color.Black;
             this.btn1F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1F.FlatAppearance.BorderSize = 0;
             this.btn1F.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1F.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1F.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1F.Location = new System.Drawing.Point(242, 37);
             this.btn1F.Name = "btn1F";
             this.btn1F.Size = new System.Drawing.Size(8, 30);
@@ -1082,11 +1082,11 @@ namespace SevenSegmentClock
             // 
             // btn1H
             // 
-            this.btn1H.BackColor = System.Drawing.Color.DimGray;
+            this.btn1H.BackColor = System.Drawing.Color.Black;
             this.btn1H.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1H.FlatAppearance.BorderSize = 0;
             this.btn1H.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1H.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1H.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1H.Location = new System.Drawing.Point(242, 75);
             this.btn1H.Name = "btn1H";
             this.btn1H.Size = new System.Drawing.Size(8, 30);
@@ -1096,11 +1096,11 @@ namespace SevenSegmentClock
             // 
             // btn1P
             // 
-            this.btn1P.BackColor = System.Drawing.Color.DimGray;
+            this.btn1P.BackColor = System.Drawing.Color.Black;
             this.btn1P.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1P.FlatAppearance.BorderSize = 0;
             this.btn1P.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1P.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1P.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1P.Location = new System.Drawing.Point(196, 37);
             this.btn1P.Name = "btn1P";
             this.btn1P.Size = new System.Drawing.Size(8, 30);
@@ -1110,11 +1110,11 @@ namespace SevenSegmentClock
             // 
             // btn1N
             // 
-            this.btn1N.BackColor = System.Drawing.Color.DimGray;
+            this.btn1N.BackColor = System.Drawing.Color.Black;
             this.btn1N.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1N.FlatAppearance.BorderSize = 0;
             this.btn1N.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1N.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1N.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1N.Location = new System.Drawing.Point(196, 75);
             this.btn1N.Name = "btn1N";
             this.btn1N.Size = new System.Drawing.Size(8, 30);
@@ -1124,11 +1124,11 @@ namespace SevenSegmentClock
             // 
             // btn1S
             // 
-            this.btn1S.BackColor = System.Drawing.Color.DimGray;
+            this.btn1S.BackColor = System.Drawing.Color.Black;
             this.btn1S.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn1S.FlatAppearance.BorderSize = 0;
             this.btn1S.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1S.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn1S.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn1S.Location = new System.Drawing.Point(219, 75);
             this.btn1S.Name = "btn1S";
             this.btn1S.Size = new System.Drawing.Size(8, 30);
@@ -1138,11 +1138,11 @@ namespace SevenSegmentClock
             // 
             // btn2C
             // 
-            this.btn2C.BackColor = System.Drawing.Color.DimGray;
+            this.btn2C.BackColor = System.Drawing.Color.Black;
             this.btn2C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2C.FlatAppearance.BorderSize = 0;
             this.btn2C.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2C.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2C.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2C.Location = new System.Drawing.Point(298, 29);
             this.btn2C.Name = "btn2C";
             this.btn2C.Size = new System.Drawing.Size(8, 8);
@@ -1152,11 +1152,11 @@ namespace SevenSegmentClock
             // 
             // btn2E
             // 
-            this.btn2E.BackColor = System.Drawing.Color.DimGray;
+            this.btn2E.BackColor = System.Drawing.Color.Black;
             this.btn2E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2E.FlatAppearance.BorderSize = 0;
             this.btn2E.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2E.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2E.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2E.Location = new System.Drawing.Point(321, 29);
             this.btn2E.Name = "btn2E";
             this.btn2E.Size = new System.Drawing.Size(8, 8);
@@ -1166,11 +1166,11 @@ namespace SevenSegmentClock
             // 
             // btn2G
             // 
-            this.btn2G.BackColor = System.Drawing.Color.DimGray;
+            this.btn2G.BackColor = System.Drawing.Color.Black;
             this.btn2G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2G.FlatAppearance.BorderSize = 0;
             this.btn2G.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2G.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2G.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2G.Location = new System.Drawing.Point(321, 67);
             this.btn2G.Name = "btn2G";
             this.btn2G.Size = new System.Drawing.Size(8, 8);
@@ -1180,11 +1180,11 @@ namespace SevenSegmentClock
             // 
             // btn2A
             // 
-            this.btn2A.BackColor = System.Drawing.Color.DimGray;
+            this.btn2A.BackColor = System.Drawing.Color.Black;
             this.btn2A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2A.FlatAppearance.BorderSize = 0;
             this.btn2A.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2A.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2A.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2A.Location = new System.Drawing.Point(275, 29);
             this.btn2A.Name = "btn2A";
             this.btn2A.Size = new System.Drawing.Size(8, 8);
@@ -1194,11 +1194,11 @@ namespace SevenSegmentClock
             // 
             // btn2M
             // 
-            this.btn2M.BackColor = System.Drawing.Color.DimGray;
+            this.btn2M.BackColor = System.Drawing.Color.Black;
             this.btn2M.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2M.FlatAppearance.BorderSize = 0;
             this.btn2M.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2M.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2M.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2M.Location = new System.Drawing.Point(275, 105);
             this.btn2M.Name = "btn2M";
             this.btn2M.Size = new System.Drawing.Size(8, 8);
@@ -1208,11 +1208,11 @@ namespace SevenSegmentClock
             // 
             // btn2O
             // 
-            this.btn2O.BackColor = System.Drawing.Color.DimGray;
+            this.btn2O.BackColor = System.Drawing.Color.Black;
             this.btn2O.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2O.FlatAppearance.BorderSize = 0;
             this.btn2O.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2O.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2O.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2O.Location = new System.Drawing.Point(275, 67);
             this.btn2O.Name = "btn2O";
             this.btn2O.Size = new System.Drawing.Size(8, 8);
@@ -1222,11 +1222,11 @@ namespace SevenSegmentClock
             // 
             // btn2D
             // 
-            this.btn2D.BackColor = System.Drawing.Color.DimGray;
+            this.btn2D.BackColor = System.Drawing.Color.Black;
             this.btn2D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2D.FlatAppearance.BorderSize = 0;
             this.btn2D.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2D.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2D.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2D.Location = new System.Drawing.Point(306, 29);
             this.btn2D.Name = "btn2D";
             this.btn2D.Size = new System.Drawing.Size(15, 8);
@@ -1236,11 +1236,11 @@ namespace SevenSegmentClock
             // 
             // btn2R
             // 
-            this.btn2R.BackColor = System.Drawing.Color.DimGray;
+            this.btn2R.BackColor = System.Drawing.Color.Black;
             this.btn2R.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2R.FlatAppearance.BorderSize = 0;
             this.btn2R.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2R.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2R.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2R.Location = new System.Drawing.Point(306, 67);
             this.btn2R.Name = "btn2R";
             this.btn2R.Size = new System.Drawing.Size(15, 8);
@@ -1250,11 +1250,11 @@ namespace SevenSegmentClock
             // 
             // btn2J
             // 
-            this.btn2J.BackColor = System.Drawing.Color.DimGray;
+            this.btn2J.BackColor = System.Drawing.Color.Black;
             this.btn2J.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2J.FlatAppearance.BorderSize = 0;
             this.btn2J.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2J.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2J.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2J.Location = new System.Drawing.Point(306, 105);
             this.btn2J.Name = "btn2J";
             this.btn2J.Size = new System.Drawing.Size(15, 8);
@@ -1264,11 +1264,11 @@ namespace SevenSegmentClock
             // 
             // btn2B
             // 
-            this.btn2B.BackColor = System.Drawing.Color.DimGray;
+            this.btn2B.BackColor = System.Drawing.Color.Black;
             this.btn2B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2B.FlatAppearance.BorderSize = 0;
             this.btn2B.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2B.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2B.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2B.Location = new System.Drawing.Point(283, 29);
             this.btn2B.Name = "btn2B";
             this.btn2B.Size = new System.Drawing.Size(15, 8);
@@ -1278,11 +1278,11 @@ namespace SevenSegmentClock
             // 
             // btn2T
             // 
-            this.btn2T.BackColor = System.Drawing.Color.DimGray;
+            this.btn2T.BackColor = System.Drawing.Color.Black;
             this.btn2T.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2T.FlatAppearance.BorderSize = 0;
             this.btn2T.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2T.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2T.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2T.Location = new System.Drawing.Point(283, 67);
             this.btn2T.Name = "btn2T";
             this.btn2T.Size = new System.Drawing.Size(15, 8);
@@ -1292,11 +1292,11 @@ namespace SevenSegmentClock
             // 
             // btn2L
             // 
-            this.btn2L.BackColor = System.Drawing.Color.DimGray;
+            this.btn2L.BackColor = System.Drawing.Color.Black;
             this.btn2L.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2L.FlatAppearance.BorderSize = 0;
             this.btn2L.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2L.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2L.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2L.Location = new System.Drawing.Point(283, 105);
             this.btn2L.Name = "btn2L";
             this.btn2L.Size = new System.Drawing.Size(15, 8);
@@ -1306,11 +1306,11 @@ namespace SevenSegmentClock
             // 
             // btn2K
             // 
-            this.btn2K.BackColor = System.Drawing.Color.DimGray;
+            this.btn2K.BackColor = System.Drawing.Color.Black;
             this.btn2K.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2K.FlatAppearance.BorderSize = 0;
             this.btn2K.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2K.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2K.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2K.Location = new System.Drawing.Point(298, 105);
             this.btn2K.Name = "btn2K";
             this.btn2K.Size = new System.Drawing.Size(8, 8);
@@ -1320,11 +1320,11 @@ namespace SevenSegmentClock
             // 
             // btn2I
             // 
-            this.btn2I.BackColor = System.Drawing.Color.DimGray;
+            this.btn2I.BackColor = System.Drawing.Color.Black;
             this.btn2I.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2I.FlatAppearance.BorderSize = 0;
             this.btn2I.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2I.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2I.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2I.Location = new System.Drawing.Point(321, 105);
             this.btn2I.Name = "btn2I";
             this.btn2I.Size = new System.Drawing.Size(8, 8);
@@ -1334,11 +1334,11 @@ namespace SevenSegmentClock
             // 
             // btn2U
             // 
-            this.btn2U.BackColor = System.Drawing.Color.DimGray;
+            this.btn2U.BackColor = System.Drawing.Color.Black;
             this.btn2U.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2U.FlatAppearance.BorderSize = 0;
             this.btn2U.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2U.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2U.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2U.Location = new System.Drawing.Point(298, 67);
             this.btn2U.Name = "btn2U";
             this.btn2U.Size = new System.Drawing.Size(8, 8);
@@ -1348,11 +1348,11 @@ namespace SevenSegmentClock
             // 
             // btn2Q
             // 
-            this.btn2Q.BackColor = System.Drawing.Color.DimGray;
+            this.btn2Q.BackColor = System.Drawing.Color.Black;
             this.btn2Q.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2Q.FlatAppearance.BorderSize = 0;
             this.btn2Q.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2Q.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2Q.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2Q.Location = new System.Drawing.Point(298, 37);
             this.btn2Q.Name = "btn2Q";
             this.btn2Q.Size = new System.Drawing.Size(8, 30);
@@ -1362,11 +1362,11 @@ namespace SevenSegmentClock
             // 
             // btn2F
             // 
-            this.btn2F.BackColor = System.Drawing.Color.DimGray;
+            this.btn2F.BackColor = System.Drawing.Color.Black;
             this.btn2F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2F.FlatAppearance.BorderSize = 0;
             this.btn2F.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2F.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2F.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2F.Location = new System.Drawing.Point(321, 37);
             this.btn2F.Name = "btn2F";
             this.btn2F.Size = new System.Drawing.Size(8, 30);
@@ -1376,11 +1376,11 @@ namespace SevenSegmentClock
             // 
             // btn2H
             // 
-            this.btn2H.BackColor = System.Drawing.Color.DimGray;
+            this.btn2H.BackColor = System.Drawing.Color.Black;
             this.btn2H.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2H.FlatAppearance.BorderSize = 0;
             this.btn2H.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2H.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2H.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2H.Location = new System.Drawing.Point(321, 75);
             this.btn2H.Name = "btn2H";
             this.btn2H.Size = new System.Drawing.Size(8, 30);
@@ -1390,11 +1390,11 @@ namespace SevenSegmentClock
             // 
             // btn2P
             // 
-            this.btn2P.BackColor = System.Drawing.Color.DimGray;
+            this.btn2P.BackColor = System.Drawing.Color.Black;
             this.btn2P.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2P.FlatAppearance.BorderSize = 0;
             this.btn2P.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2P.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2P.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2P.Location = new System.Drawing.Point(275, 37);
             this.btn2P.Name = "btn2P";
             this.btn2P.Size = new System.Drawing.Size(8, 30);
@@ -1404,11 +1404,11 @@ namespace SevenSegmentClock
             // 
             // btn2N
             // 
-            this.btn2N.BackColor = System.Drawing.Color.DimGray;
+            this.btn2N.BackColor = System.Drawing.Color.Black;
             this.btn2N.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2N.FlatAppearance.BorderSize = 0;
             this.btn2N.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2N.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2N.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2N.Location = new System.Drawing.Point(275, 75);
             this.btn2N.Name = "btn2N";
             this.btn2N.Size = new System.Drawing.Size(8, 30);
@@ -1418,11 +1418,11 @@ namespace SevenSegmentClock
             // 
             // btn2S
             // 
-            this.btn2S.BackColor = System.Drawing.Color.DimGray;
+            this.btn2S.BackColor = System.Drawing.Color.Black;
             this.btn2S.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn2S.FlatAppearance.BorderSize = 0;
             this.btn2S.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2S.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn2S.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn2S.Location = new System.Drawing.Point(298, 75);
             this.btn2S.Name = "btn2S";
             this.btn2S.Size = new System.Drawing.Size(8, 30);
@@ -1432,11 +1432,11 @@ namespace SevenSegmentClock
             // 
             // btn3C
             // 
-            this.btn3C.BackColor = System.Drawing.Color.DimGray;
+            this.btn3C.BackColor = System.Drawing.Color.Black;
             this.btn3C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3C.FlatAppearance.BorderSize = 0;
             this.btn3C.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3C.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3C.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3C.Location = new System.Drawing.Point(380, 29);
             this.btn3C.Name = "btn3C";
             this.btn3C.Size = new System.Drawing.Size(8, 8);
@@ -1446,11 +1446,11 @@ namespace SevenSegmentClock
             // 
             // btn3E
             // 
-            this.btn3E.BackColor = System.Drawing.Color.DimGray;
+            this.btn3E.BackColor = System.Drawing.Color.Black;
             this.btn3E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3E.FlatAppearance.BorderSize = 0;
             this.btn3E.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3E.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3E.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3E.Location = new System.Drawing.Point(403, 29);
             this.btn3E.Name = "btn3E";
             this.btn3E.Size = new System.Drawing.Size(8, 8);
@@ -1460,11 +1460,11 @@ namespace SevenSegmentClock
             // 
             // btn3G
             // 
-            this.btn3G.BackColor = System.Drawing.Color.DimGray;
+            this.btn3G.BackColor = System.Drawing.Color.Black;
             this.btn3G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3G.FlatAppearance.BorderSize = 0;
             this.btn3G.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3G.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3G.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3G.Location = new System.Drawing.Point(403, 67);
             this.btn3G.Name = "btn3G";
             this.btn3G.Size = new System.Drawing.Size(8, 8);
@@ -1474,11 +1474,11 @@ namespace SevenSegmentClock
             // 
             // btn3A
             // 
-            this.btn3A.BackColor = System.Drawing.Color.DimGray;
+            this.btn3A.BackColor = System.Drawing.Color.Black;
             this.btn3A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3A.FlatAppearance.BorderSize = 0;
             this.btn3A.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3A.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3A.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3A.Location = new System.Drawing.Point(357, 29);
             this.btn3A.Name = "btn3A";
             this.btn3A.Size = new System.Drawing.Size(8, 8);
@@ -1488,11 +1488,11 @@ namespace SevenSegmentClock
             // 
             // btn3M
             // 
-            this.btn3M.BackColor = System.Drawing.Color.DimGray;
+            this.btn3M.BackColor = System.Drawing.Color.Black;
             this.btn3M.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3M.FlatAppearance.BorderSize = 0;
             this.btn3M.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3M.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3M.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3M.Location = new System.Drawing.Point(357, 105);
             this.btn3M.Name = "btn3M";
             this.btn3M.Size = new System.Drawing.Size(8, 8);
@@ -1502,11 +1502,11 @@ namespace SevenSegmentClock
             // 
             // btn3O
             // 
-            this.btn3O.BackColor = System.Drawing.Color.DimGray;
+            this.btn3O.BackColor = System.Drawing.Color.Black;
             this.btn3O.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3O.FlatAppearance.BorderSize = 0;
             this.btn3O.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3O.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3O.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3O.Location = new System.Drawing.Point(357, 67);
             this.btn3O.Name = "btn3O";
             this.btn3O.Size = new System.Drawing.Size(8, 8);
@@ -1516,11 +1516,11 @@ namespace SevenSegmentClock
             // 
             // btn3D
             // 
-            this.btn3D.BackColor = System.Drawing.Color.DimGray;
+            this.btn3D.BackColor = System.Drawing.Color.Black;
             this.btn3D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3D.FlatAppearance.BorderSize = 0;
             this.btn3D.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3D.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3D.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3D.Location = new System.Drawing.Point(388, 29);
             this.btn3D.Name = "btn3D";
             this.btn3D.Size = new System.Drawing.Size(15, 8);
@@ -1530,11 +1530,11 @@ namespace SevenSegmentClock
             // 
             // btn3R
             // 
-            this.btn3R.BackColor = System.Drawing.Color.DimGray;
+            this.btn3R.BackColor = System.Drawing.Color.Black;
             this.btn3R.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3R.FlatAppearance.BorderSize = 0;
             this.btn3R.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3R.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3R.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3R.Location = new System.Drawing.Point(388, 67);
             this.btn3R.Name = "btn3R";
             this.btn3R.Size = new System.Drawing.Size(15, 8);
@@ -1544,11 +1544,11 @@ namespace SevenSegmentClock
             // 
             // btn3J
             // 
-            this.btn3J.BackColor = System.Drawing.Color.DimGray;
+            this.btn3J.BackColor = System.Drawing.Color.Black;
             this.btn3J.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3J.FlatAppearance.BorderSize = 0;
             this.btn3J.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3J.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3J.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3J.Location = new System.Drawing.Point(388, 105);
             this.btn3J.Name = "btn3J";
             this.btn3J.Size = new System.Drawing.Size(15, 8);
@@ -1558,11 +1558,11 @@ namespace SevenSegmentClock
             // 
             // btn3B
             // 
-            this.btn3B.BackColor = System.Drawing.Color.DimGray;
+            this.btn3B.BackColor = System.Drawing.Color.Black;
             this.btn3B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3B.FlatAppearance.BorderSize = 0;
             this.btn3B.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3B.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3B.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3B.Location = new System.Drawing.Point(365, 29);
             this.btn3B.Name = "btn3B";
             this.btn3B.Size = new System.Drawing.Size(15, 8);
@@ -1572,11 +1572,11 @@ namespace SevenSegmentClock
             // 
             // btn3T
             // 
-            this.btn3T.BackColor = System.Drawing.Color.DimGray;
+            this.btn3T.BackColor = System.Drawing.Color.Black;
             this.btn3T.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3T.FlatAppearance.BorderSize = 0;
             this.btn3T.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3T.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3T.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3T.Location = new System.Drawing.Point(365, 67);
             this.btn3T.Name = "btn3T";
             this.btn3T.Size = new System.Drawing.Size(15, 8);
@@ -1586,11 +1586,11 @@ namespace SevenSegmentClock
             // 
             // btn3L
             // 
-            this.btn3L.BackColor = System.Drawing.Color.DimGray;
+            this.btn3L.BackColor = System.Drawing.Color.Black;
             this.btn3L.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3L.FlatAppearance.BorderSize = 0;
             this.btn3L.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3L.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3L.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3L.Location = new System.Drawing.Point(365, 105);
             this.btn3L.Name = "btn3L";
             this.btn3L.Size = new System.Drawing.Size(15, 8);
@@ -1600,11 +1600,11 @@ namespace SevenSegmentClock
             // 
             // btn3K
             // 
-            this.btn3K.BackColor = System.Drawing.Color.DimGray;
+            this.btn3K.BackColor = System.Drawing.Color.Black;
             this.btn3K.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3K.FlatAppearance.BorderSize = 0;
             this.btn3K.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3K.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3K.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3K.Location = new System.Drawing.Point(380, 105);
             this.btn3K.Name = "btn3K";
             this.btn3K.Size = new System.Drawing.Size(8, 8);
@@ -1614,11 +1614,11 @@ namespace SevenSegmentClock
             // 
             // btn3I
             // 
-            this.btn3I.BackColor = System.Drawing.Color.DimGray;
+            this.btn3I.BackColor = System.Drawing.Color.Black;
             this.btn3I.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3I.FlatAppearance.BorderSize = 0;
             this.btn3I.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3I.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3I.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3I.Location = new System.Drawing.Point(403, 105);
             this.btn3I.Name = "btn3I";
             this.btn3I.Size = new System.Drawing.Size(8, 8);
@@ -1628,11 +1628,11 @@ namespace SevenSegmentClock
             // 
             // btn3U
             // 
-            this.btn3U.BackColor = System.Drawing.Color.DimGray;
+            this.btn3U.BackColor = System.Drawing.Color.Black;
             this.btn3U.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3U.FlatAppearance.BorderSize = 0;
             this.btn3U.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3U.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3U.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3U.Location = new System.Drawing.Point(380, 67);
             this.btn3U.Name = "btn3U";
             this.btn3U.Size = new System.Drawing.Size(8, 8);
@@ -1642,11 +1642,11 @@ namespace SevenSegmentClock
             // 
             // btn3Q
             // 
-            this.btn3Q.BackColor = System.Drawing.Color.DimGray;
+            this.btn3Q.BackColor = System.Drawing.Color.Black;
             this.btn3Q.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3Q.FlatAppearance.BorderSize = 0;
             this.btn3Q.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3Q.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3Q.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3Q.Location = new System.Drawing.Point(380, 37);
             this.btn3Q.Name = "btn3Q";
             this.btn3Q.Size = new System.Drawing.Size(8, 30);
@@ -1656,11 +1656,11 @@ namespace SevenSegmentClock
             // 
             // btn3F
             // 
-            this.btn3F.BackColor = System.Drawing.Color.DimGray;
+            this.btn3F.BackColor = System.Drawing.Color.Black;
             this.btn3F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3F.FlatAppearance.BorderSize = 0;
             this.btn3F.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3F.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3F.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3F.Location = new System.Drawing.Point(403, 37);
             this.btn3F.Name = "btn3F";
             this.btn3F.Size = new System.Drawing.Size(8, 30);
@@ -1670,11 +1670,11 @@ namespace SevenSegmentClock
             // 
             // btn3H
             // 
-            this.btn3H.BackColor = System.Drawing.Color.DimGray;
+            this.btn3H.BackColor = System.Drawing.Color.Black;
             this.btn3H.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3H.FlatAppearance.BorderSize = 0;
             this.btn3H.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3H.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3H.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3H.Location = new System.Drawing.Point(403, 75);
             this.btn3H.Name = "btn3H";
             this.btn3H.Size = new System.Drawing.Size(8, 30);
@@ -1684,11 +1684,11 @@ namespace SevenSegmentClock
             // 
             // btn3P
             // 
-            this.btn3P.BackColor = System.Drawing.Color.DimGray;
+            this.btn3P.BackColor = System.Drawing.Color.Black;
             this.btn3P.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3P.FlatAppearance.BorderSize = 0;
             this.btn3P.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3P.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3P.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3P.Location = new System.Drawing.Point(357, 37);
             this.btn3P.Name = "btn3P";
             this.btn3P.Size = new System.Drawing.Size(8, 30);
@@ -1699,11 +1699,11 @@ namespace SevenSegmentClock
             // 
             // btn3N
             // 
-            this.btn3N.BackColor = System.Drawing.Color.DimGray;
+            this.btn3N.BackColor = System.Drawing.Color.Black;
             this.btn3N.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3N.FlatAppearance.BorderSize = 0;
             this.btn3N.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3N.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3N.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3N.Location = new System.Drawing.Point(357, 75);
             this.btn3N.Name = "btn3N";
             this.btn3N.Size = new System.Drawing.Size(8, 30);
@@ -1713,11 +1713,11 @@ namespace SevenSegmentClock
             // 
             // btn3S
             // 
-            this.btn3S.BackColor = System.Drawing.Color.DimGray;
+            this.btn3S.BackColor = System.Drawing.Color.Black;
             this.btn3S.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btn3S.FlatAppearance.BorderSize = 0;
             this.btn3S.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3S.ForeColor = System.Drawing.Color.LightSteelBlue;
+            this.btn3S.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn3S.Location = new System.Drawing.Point(380, 75);
             this.btn3S.Name = "btn3S";
             this.btn3S.Size = new System.Drawing.Size(8, 30);
@@ -1756,7 +1756,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1S
             // 
-            this.btnDate1S.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1S.BackColor = System.Drawing.Color.Black;
             this.btnDate1S.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1S.FlatAppearance.BorderSize = 0;
             this.btnDate1S.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1769,7 +1769,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1N
             // 
-            this.btnDate1N.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1N.BackColor = System.Drawing.Color.Black;
             this.btnDate1N.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1N.FlatAppearance.BorderSize = 0;
             this.btnDate1N.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1782,7 +1782,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1P
             // 
-            this.btnDate1P.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1P.BackColor = System.Drawing.Color.Black;
             this.btnDate1P.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1P.FlatAppearance.BorderSize = 0;
             this.btnDate1P.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1795,7 +1795,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1H
             // 
-            this.btnDate1H.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1H.BackColor = System.Drawing.Color.Black;
             this.btnDate1H.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1H.FlatAppearance.BorderSize = 0;
             this.btnDate1H.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1808,7 +1808,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1F
             // 
-            this.btnDate1F.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1F.BackColor = System.Drawing.Color.Black;
             this.btnDate1F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1F.FlatAppearance.BorderSize = 0;
             this.btnDate1F.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1821,7 +1821,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1Q
             // 
-            this.btnDate1Q.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1Q.BackColor = System.Drawing.Color.Black;
             this.btnDate1Q.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1Q.FlatAppearance.BorderSize = 0;
             this.btnDate1Q.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1834,7 +1834,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1U
             // 
-            this.btnDate1U.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1U.BackColor = System.Drawing.Color.Black;
             this.btnDate1U.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1U.FlatAppearance.BorderSize = 0;
             this.btnDate1U.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1847,7 +1847,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1I
             // 
-            this.btnDate1I.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1I.BackColor = System.Drawing.Color.Black;
             this.btnDate1I.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1I.FlatAppearance.BorderSize = 0;
             this.btnDate1I.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1860,7 +1860,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1K
             // 
-            this.btnDate1K.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1K.BackColor = System.Drawing.Color.Black;
             this.btnDate1K.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1K.FlatAppearance.BorderSize = 0;
             this.btnDate1K.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1873,7 +1873,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1L
             // 
-            this.btnDate1L.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1L.BackColor = System.Drawing.Color.Black;
             this.btnDate1L.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1L.FlatAppearance.BorderSize = 0;
             this.btnDate1L.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1886,7 +1886,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1T
             // 
-            this.btnDate1T.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1T.BackColor = System.Drawing.Color.Black;
             this.btnDate1T.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1T.FlatAppearance.BorderSize = 0;
             this.btnDate1T.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1899,7 +1899,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1B
             // 
-            this.btnDate1B.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1B.BackColor = System.Drawing.Color.Black;
             this.btnDate1B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1B.FlatAppearance.BorderSize = 0;
             this.btnDate1B.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1912,7 +1912,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1J
             // 
-            this.btnDate1J.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1J.BackColor = System.Drawing.Color.Black;
             this.btnDate1J.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1J.FlatAppearance.BorderSize = 0;
             this.btnDate1J.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1925,7 +1925,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1R
             // 
-            this.btnDate1R.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1R.BackColor = System.Drawing.Color.Black;
             this.btnDate1R.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1R.FlatAppearance.BorderSize = 0;
             this.btnDate1R.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1938,7 +1938,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1D
             // 
-            this.btnDate1D.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1D.BackColor = System.Drawing.Color.Black;
             this.btnDate1D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1D.FlatAppearance.BorderSize = 0;
             this.btnDate1D.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1951,7 +1951,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1O
             // 
-            this.btnDate1O.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1O.BackColor = System.Drawing.Color.Black;
             this.btnDate1O.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1O.FlatAppearance.BorderSize = 0;
             this.btnDate1O.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1964,7 +1964,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1M
             // 
-            this.btnDate1M.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1M.BackColor = System.Drawing.Color.Black;
             this.btnDate1M.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1M.FlatAppearance.BorderSize = 0;
             this.btnDate1M.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1977,7 +1977,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1A
             // 
-            this.btnDate1A.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1A.BackColor = System.Drawing.Color.Black;
             this.btnDate1A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1A.FlatAppearance.BorderSize = 0;
             this.btnDate1A.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -1990,7 +1990,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1G
             // 
-            this.btnDate1G.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1G.BackColor = System.Drawing.Color.Black;
             this.btnDate1G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1G.FlatAppearance.BorderSize = 0;
             this.btnDate1G.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2003,7 +2003,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1E
             // 
-            this.btnDate1E.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1E.BackColor = System.Drawing.Color.Black;
             this.btnDate1E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1E.FlatAppearance.BorderSize = 0;
             this.btnDate1E.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2016,7 +2016,7 @@ namespace SevenSegmentClock
             // 
             // btnDate1C
             // 
-            this.btnDate1C.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate1C.BackColor = System.Drawing.Color.Black;
             this.btnDate1C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate1C.FlatAppearance.BorderSize = 0;
             this.btnDate1C.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2029,7 +2029,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2C
             // 
-            this.btnDate2C.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2C.BackColor = System.Drawing.Color.Black;
             this.btnDate2C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2C.FlatAppearance.BorderSize = 0;
             this.btnDate2C.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2042,7 +2042,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2E
             // 
-            this.btnDate2E.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2E.BackColor = System.Drawing.Color.Black;
             this.btnDate2E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2E.FlatAppearance.BorderSize = 0;
             this.btnDate2E.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2055,7 +2055,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2G
             // 
-            this.btnDate2G.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2G.BackColor = System.Drawing.Color.Black;
             this.btnDate2G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2G.FlatAppearance.BorderSize = 0;
             this.btnDate2G.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2068,7 +2068,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2A
             // 
-            this.btnDate2A.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2A.BackColor = System.Drawing.Color.Black;
             this.btnDate2A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2A.FlatAppearance.BorderSize = 0;
             this.btnDate2A.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2081,7 +2081,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2M
             // 
-            this.btnDate2M.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2M.BackColor = System.Drawing.Color.Black;
             this.btnDate2M.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2M.FlatAppearance.BorderSize = 0;
             this.btnDate2M.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2094,7 +2094,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2O
             // 
-            this.btnDate2O.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2O.BackColor = System.Drawing.Color.Black;
             this.btnDate2O.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2O.FlatAppearance.BorderSize = 0;
             this.btnDate2O.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2107,7 +2107,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2D
             // 
-            this.btnDate2D.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2D.BackColor = System.Drawing.Color.Black;
             this.btnDate2D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2D.FlatAppearance.BorderSize = 0;
             this.btnDate2D.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2120,7 +2120,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2R
             // 
-            this.btnDate2R.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2R.BackColor = System.Drawing.Color.Black;
             this.btnDate2R.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2R.FlatAppearance.BorderSize = 0;
             this.btnDate2R.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2133,7 +2133,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2J
             // 
-            this.btnDate2J.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2J.BackColor = System.Drawing.Color.Black;
             this.btnDate2J.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2J.FlatAppearance.BorderSize = 0;
             this.btnDate2J.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2146,7 +2146,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2B
             // 
-            this.btnDate2B.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2B.BackColor = System.Drawing.Color.Black;
             this.btnDate2B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2B.FlatAppearance.BorderSize = 0;
             this.btnDate2B.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2159,7 +2159,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2T
             // 
-            this.btnDate2T.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2T.BackColor = System.Drawing.Color.Black;
             this.btnDate2T.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2T.FlatAppearance.BorderSize = 0;
             this.btnDate2T.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2172,7 +2172,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2L
             // 
-            this.btnDate2L.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2L.BackColor = System.Drawing.Color.Black;
             this.btnDate2L.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2L.FlatAppearance.BorderSize = 0;
             this.btnDate2L.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2185,7 +2185,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2K
             // 
-            this.btnDate2K.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2K.BackColor = System.Drawing.Color.Black;
             this.btnDate2K.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2K.FlatAppearance.BorderSize = 0;
             this.btnDate2K.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2198,7 +2198,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2I
             // 
-            this.btnDate2I.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2I.BackColor = System.Drawing.Color.Black;
             this.btnDate2I.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2I.FlatAppearance.BorderSize = 0;
             this.btnDate2I.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2211,7 +2211,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2U
             // 
-            this.btnDate2U.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2U.BackColor = System.Drawing.Color.Black;
             this.btnDate2U.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2U.FlatAppearance.BorderSize = 0;
             this.btnDate2U.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2224,7 +2224,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2Q
             // 
-            this.btnDate2Q.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2Q.BackColor = System.Drawing.Color.Black;
             this.btnDate2Q.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2Q.FlatAppearance.BorderSize = 0;
             this.btnDate2Q.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2237,7 +2237,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2F
             // 
-            this.btnDate2F.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2F.BackColor = System.Drawing.Color.Black;
             this.btnDate2F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2F.FlatAppearance.BorderSize = 0;
             this.btnDate2F.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2250,7 +2250,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2H
             // 
-            this.btnDate2H.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2H.BackColor = System.Drawing.Color.Black;
             this.btnDate2H.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2H.FlatAppearance.BorderSize = 0;
             this.btnDate2H.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2263,7 +2263,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2P
             // 
-            this.btnDate2P.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2P.BackColor = System.Drawing.Color.Black;
             this.btnDate2P.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2P.FlatAppearance.BorderSize = 0;
             this.btnDate2P.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2276,7 +2276,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2N
             // 
-            this.btnDate2N.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2N.BackColor = System.Drawing.Color.Black;
             this.btnDate2N.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2N.FlatAppearance.BorderSize = 0;
             this.btnDate2N.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2289,7 +2289,7 @@ namespace SevenSegmentClock
             // 
             // btnDate2S
             // 
-            this.btnDate2S.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate2S.BackColor = System.Drawing.Color.Black;
             this.btnDate2S.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate2S.FlatAppearance.BorderSize = 0;
             this.btnDate2S.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2302,7 +2302,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3C
             // 
-            this.btnDate3C.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3C.BackColor = System.Drawing.Color.Black;
             this.btnDate3C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3C.FlatAppearance.BorderSize = 0;
             this.btnDate3C.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2315,7 +2315,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3E
             // 
-            this.btnDate3E.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3E.BackColor = System.Drawing.Color.Black;
             this.btnDate3E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3E.FlatAppearance.BorderSize = 0;
             this.btnDate3E.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2328,7 +2328,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3G
             // 
-            this.btnDate3G.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3G.BackColor = System.Drawing.Color.Black;
             this.btnDate3G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3G.FlatAppearance.BorderSize = 0;
             this.btnDate3G.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2341,7 +2341,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3A
             // 
-            this.btnDate3A.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3A.BackColor = System.Drawing.Color.Black;
             this.btnDate3A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3A.FlatAppearance.BorderSize = 0;
             this.btnDate3A.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2354,7 +2354,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3M
             // 
-            this.btnDate3M.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3M.BackColor = System.Drawing.Color.Black;
             this.btnDate3M.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3M.FlatAppearance.BorderSize = 0;
             this.btnDate3M.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2367,7 +2367,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3O
             // 
-            this.btnDate3O.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3O.BackColor = System.Drawing.Color.Black;
             this.btnDate3O.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3O.FlatAppearance.BorderSize = 0;
             this.btnDate3O.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2380,7 +2380,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3D
             // 
-            this.btnDate3D.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3D.BackColor = System.Drawing.Color.Black;
             this.btnDate3D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3D.FlatAppearance.BorderSize = 0;
             this.btnDate3D.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2393,7 +2393,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3R
             // 
-            this.btnDate3R.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3R.BackColor = System.Drawing.Color.Black;
             this.btnDate3R.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3R.FlatAppearance.BorderSize = 0;
             this.btnDate3R.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2406,7 +2406,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3J
             // 
-            this.btnDate3J.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3J.BackColor = System.Drawing.Color.Black;
             this.btnDate3J.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3J.FlatAppearance.BorderSize = 0;
             this.btnDate3J.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2419,7 +2419,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3B
             // 
-            this.btnDate3B.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3B.BackColor = System.Drawing.Color.Black;
             this.btnDate3B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3B.FlatAppearance.BorderSize = 0;
             this.btnDate3B.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2432,7 +2432,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3T
             // 
-            this.btnDate3T.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3T.BackColor = System.Drawing.Color.Black;
             this.btnDate3T.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3T.FlatAppearance.BorderSize = 0;
             this.btnDate3T.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2445,7 +2445,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3L
             // 
-            this.btnDate3L.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3L.BackColor = System.Drawing.Color.Black;
             this.btnDate3L.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3L.FlatAppearance.BorderSize = 0;
             this.btnDate3L.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2458,7 +2458,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3K
             // 
-            this.btnDate3K.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3K.BackColor = System.Drawing.Color.Black;
             this.btnDate3K.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3K.FlatAppearance.BorderSize = 0;
             this.btnDate3K.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2471,7 +2471,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3I
             // 
-            this.btnDate3I.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3I.BackColor = System.Drawing.Color.Black;
             this.btnDate3I.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3I.FlatAppearance.BorderSize = 0;
             this.btnDate3I.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2484,7 +2484,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3U
             // 
-            this.btnDate3U.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3U.BackColor = System.Drawing.Color.Black;
             this.btnDate3U.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3U.FlatAppearance.BorderSize = 0;
             this.btnDate3U.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2497,7 +2497,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3Q
             // 
-            this.btnDate3Q.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3Q.BackColor = System.Drawing.Color.Black;
             this.btnDate3Q.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3Q.FlatAppearance.BorderSize = 0;
             this.btnDate3Q.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2510,7 +2510,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3F
             // 
-            this.btnDate3F.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3F.BackColor = System.Drawing.Color.Black;
             this.btnDate3F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3F.FlatAppearance.BorderSize = 0;
             this.btnDate3F.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2523,7 +2523,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3H
             // 
-            this.btnDate3H.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3H.BackColor = System.Drawing.Color.Black;
             this.btnDate3H.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3H.FlatAppearance.BorderSize = 0;
             this.btnDate3H.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2536,7 +2536,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3P
             // 
-            this.btnDate3P.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3P.BackColor = System.Drawing.Color.Black;
             this.btnDate3P.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3P.FlatAppearance.BorderSize = 0;
             this.btnDate3P.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2549,7 +2549,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3N
             // 
-            this.btnDate3N.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3N.BackColor = System.Drawing.Color.Black;
             this.btnDate3N.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3N.FlatAppearance.BorderSize = 0;
             this.btnDate3N.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2562,7 +2562,7 @@ namespace SevenSegmentClock
             // 
             // btnDate3S
             // 
-            this.btnDate3S.BackColor = System.Drawing.Color.DimGray;
+            this.btnDate3S.BackColor = System.Drawing.Color.Black;
             this.btnDate3S.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDate3S.FlatAppearance.BorderSize = 0;
             this.btnDate3S.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2575,7 +2575,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay1A
             // 
-            this.btnDateDay1A.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay1A.BackColor = System.Drawing.Color.Black;
             this.btnDateDay1A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay1A.FlatAppearance.BorderSize = 0;
             this.btnDateDay1A.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2588,7 +2588,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay1D
             // 
-            this.btnDateDay1D.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay1D.BackColor = System.Drawing.Color.Black;
             this.btnDateDay1D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay1D.FlatAppearance.BorderSize = 0;
             this.btnDateDay1D.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2601,7 +2601,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay1F
             // 
-            this.btnDateDay1F.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay1F.BackColor = System.Drawing.Color.Black;
             this.btnDateDay1F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay1F.FlatAppearance.BorderSize = 0;
             this.btnDateDay1F.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2614,7 +2614,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay1E
             // 
-            this.btnDateDay1E.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay1E.BackColor = System.Drawing.Color.Black;
             this.btnDateDay1E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay1E.FlatAppearance.BorderSize = 0;
             this.btnDateDay1E.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2627,7 +2627,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay1B
             // 
-            this.btnDateDay1B.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay1B.BackColor = System.Drawing.Color.Black;
             this.btnDateDay1B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay1B.FlatAppearance.BorderSize = 0;
             this.btnDateDay1B.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2640,7 +2640,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay1C
             // 
-            this.btnDateDay1C.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay1C.BackColor = System.Drawing.Color.Black;
             this.btnDateDay1C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay1C.FlatAppearance.BorderSize = 0;
             this.btnDateDay1C.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2653,7 +2653,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay1G
             // 
-            this.btnDateDay1G.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay1G.BackColor = System.Drawing.Color.Black;
             this.btnDateDay1G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay1G.FlatAppearance.BorderSize = 0;
             this.btnDateDay1G.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2666,7 +2666,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay2A
             // 
-            this.btnDateDay2A.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay2A.BackColor = System.Drawing.Color.Black;
             this.btnDateDay2A.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay2A.FlatAppearance.BorderSize = 0;
             this.btnDateDay2A.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2679,7 +2679,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay2D
             // 
-            this.btnDateDay2D.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay2D.BackColor = System.Drawing.Color.Black;
             this.btnDateDay2D.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay2D.FlatAppearance.BorderSize = 0;
             this.btnDateDay2D.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2692,7 +2692,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay2F
             // 
-            this.btnDateDay2F.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay2F.BackColor = System.Drawing.Color.Black;
             this.btnDateDay2F.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay2F.FlatAppearance.BorderSize = 0;
             this.btnDateDay2F.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2705,7 +2705,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay2E
             // 
-            this.btnDateDay2E.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay2E.BackColor = System.Drawing.Color.Black;
             this.btnDateDay2E.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay2E.FlatAppearance.BorderSize = 0;
             this.btnDateDay2E.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2718,7 +2718,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay2B
             // 
-            this.btnDateDay2B.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay2B.BackColor = System.Drawing.Color.Black;
             this.btnDateDay2B.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay2B.FlatAppearance.BorderSize = 0;
             this.btnDateDay2B.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2731,7 +2731,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay2C
             // 
-            this.btnDateDay2C.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay2C.BackColor = System.Drawing.Color.Black;
             this.btnDateDay2C.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay2C.FlatAppearance.BorderSize = 0;
             this.btnDateDay2C.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -2744,7 +2744,7 @@ namespace SevenSegmentClock
             // 
             // btnDateDay2G
             // 
-            this.btnDateDay2G.BackColor = System.Drawing.Color.DimGray;
+            this.btnDateDay2G.BackColor = System.Drawing.Color.Black;
             this.btnDateDay2G.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnDateDay2G.FlatAppearance.BorderSize = 0;
             this.btnDateDay2G.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
