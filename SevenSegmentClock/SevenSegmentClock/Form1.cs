@@ -12,14 +12,14 @@ namespace SevenSegmentClock
 {
     public partial class Form1 : Form
     {
-        Color RedOn = ColorTranslator.FromHtml("#00FFFF");
-        Color RedOff = Color.Transparent;
+        Color TimeColor1 = ColorTranslator.FromHtml("#00FFFF");
+        Color TimeColor0 = Color.Transparent;
 
-        Color GreenOn = ColorTranslator.FromHtml("#0E1EFF");
-        Color GreenOff = Color.Transparent;
+        Color DayColor1 = ColorTranslator.FromHtml("#0E1EFF");
+        Color DayColor0 = Color.Transparent;
 
-        Color BlueOn = ColorTranslator.FromHtml("#0E1EFF");
-        Color BlueOff = Color.Transparent;
+        Color DateColor1 = ColorTranslator.FromHtml("#FF00FF");
+        Color DateColor2 = Color.Transparent;
 
         Color backgroundColor = Color.Transparent;
 
@@ -40,7 +40,7 @@ namespace SevenSegmentClock
             {
                 if (x.Tag == "dayBtn")
                 {
-                    x.BackColor = RedOff;
+                    x.BackColor = TimeColor0;
                 }
             }
         }
@@ -106,103 +106,103 @@ namespace SevenSegmentClock
                             switch (num)
                             {
                                 case 0:
-                                    btnSec1A.BackColor = RedOn;
-                                    btnSec1B.BackColor = RedOn;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOn;
-                                    btnSec1E.BackColor = RedOn;
-                                    btnSec1F.BackColor = RedOn;
-                                    btnSec1G.BackColor = RedOff;
+                                    btnSec1A.BackColor = TimeColor1;
+                                    btnSec1B.BackColor = TimeColor1;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor1;
+                                    btnSec1E.BackColor = TimeColor1;
+                                    btnSec1F.BackColor = TimeColor1;
+                                    btnSec1G.BackColor = TimeColor0;
                                     break;
 
                                 case 1:
-                                    btnSec1A.BackColor = RedOff;
-                                    btnSec1B.BackColor = RedOn;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOff;
-                                    btnSec1E.BackColor = RedOff;
-                                    btnSec1F.BackColor = RedOff;
-                                    btnSec1G.BackColor = RedOff;
+                                    btnSec1A.BackColor = TimeColor0;
+                                    btnSec1B.BackColor = TimeColor1;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor0;
+                                    btnSec1E.BackColor = TimeColor0;
+                                    btnSec1F.BackColor = TimeColor0;
+                                    btnSec1G.BackColor = TimeColor0;
                                     break;
 
                                 case 2:
-                                    btnSec1A.BackColor = RedOn;
-                                    btnSec1B.BackColor = RedOn;
-                                    btnSec1C.BackColor = RedOff;
-                                    btnSec1D.BackColor = RedOn;
-                                    btnSec1E.BackColor = RedOn;
-                                    btnSec1F.BackColor = RedOff;
-                                    btnSec1G.BackColor = RedOn;
+                                    btnSec1A.BackColor = TimeColor1;
+                                    btnSec1B.BackColor = TimeColor1;
+                                    btnSec1C.BackColor = TimeColor0;
+                                    btnSec1D.BackColor = TimeColor1;
+                                    btnSec1E.BackColor = TimeColor1;
+                                    btnSec1F.BackColor = TimeColor0;
+                                    btnSec1G.BackColor = TimeColor1;
                                     break;
 
                                 case 3:
-                                    btnSec1A.BackColor = RedOn;
-                                    btnSec1B.BackColor = RedOn;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOn;
-                                    btnSec1E.BackColor = RedOff;
-                                    btnSec1F.BackColor = RedOff;
-                                    btnSec1G.BackColor = RedOn;
+                                    btnSec1A.BackColor = TimeColor1;
+                                    btnSec1B.BackColor = TimeColor1;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor1;
+                                    btnSec1E.BackColor = TimeColor0;
+                                    btnSec1F.BackColor = TimeColor0;
+                                    btnSec1G.BackColor = TimeColor1;
                                     break;
 
                                 case 4:
-                                    btnSec1A.BackColor = RedOff;
-                                    btnSec1B.BackColor = RedOn;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOff;
-                                    btnSec1E.BackColor = RedOff;
-                                    btnSec1F.BackColor = RedOn;
-                                    btnSec1G.BackColor = RedOn;
+                                    btnSec1A.BackColor = TimeColor0;
+                                    btnSec1B.BackColor = TimeColor1;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor0;
+                                    btnSec1E.BackColor = TimeColor0;
+                                    btnSec1F.BackColor = TimeColor1;
+                                    btnSec1G.BackColor = TimeColor1;
                                     break;
 
                                 case 5:
-                                    btnSec1A.BackColor = RedOn;
-                                    btnSec1B.BackColor = RedOff;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOn;
-                                    btnSec1E.BackColor = RedOff;
-                                    btnSec1F.BackColor = RedOn;
-                                    btnSec1G.BackColor = RedOn;
+                                    btnSec1A.BackColor = TimeColor1;
+                                    btnSec1B.BackColor = TimeColor0;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor1;
+                                    btnSec1E.BackColor = TimeColor0;
+                                    btnSec1F.BackColor = TimeColor1;
+                                    btnSec1G.BackColor = TimeColor1;
                                     break;
 
                                 case 6:
-                                    btnSec1A.BackColor = RedOn;
-                                    btnSec1B.BackColor = RedOff;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOn;
-                                    btnSec1E.BackColor = RedOn;
-                                    btnSec1F.BackColor = RedOn;
-                                    btnSec1G.BackColor = RedOn;
+                                    btnSec1A.BackColor = TimeColor1;
+                                    btnSec1B.BackColor = TimeColor0;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor1;
+                                    btnSec1E.BackColor = TimeColor1;
+                                    btnSec1F.BackColor = TimeColor1;
+                                    btnSec1G.BackColor = TimeColor1;
                                     break;
 
                                 case 7:
-                                    btnSec1A.BackColor = RedOn;
-                                    btnSec1B.BackColor = RedOn;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOff;
-                                    btnSec1E.BackColor = RedOff;
-                                    btnSec1F.BackColor = RedOff;
-                                    btnSec1G.BackColor = RedOff;
+                                    btnSec1A.BackColor = TimeColor1;
+                                    btnSec1B.BackColor = TimeColor1;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor0;
+                                    btnSec1E.BackColor = TimeColor0;
+                                    btnSec1F.BackColor = TimeColor0;
+                                    btnSec1G.BackColor = TimeColor0;
                                     break;
 
                                 case 8:
-                                    btnSec1A.BackColor = RedOn;
-                                    btnSec1B.BackColor = RedOn;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOn;
-                                    btnSec1E.BackColor = RedOn;
-                                    btnSec1F.BackColor = RedOn;
-                                    btnSec1G.BackColor = RedOn;
+                                    btnSec1A.BackColor = TimeColor1;
+                                    btnSec1B.BackColor = TimeColor1;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor1;
+                                    btnSec1E.BackColor = TimeColor1;
+                                    btnSec1F.BackColor = TimeColor1;
+                                    btnSec1G.BackColor = TimeColor1;
                                     break;
 
                                 case 9:
-                                    btnSec1A.BackColor = RedOn;
-                                    btnSec1B.BackColor = RedOn;
-                                    btnSec1C.BackColor = RedOn;
-                                    btnSec1D.BackColor = RedOn;
-                                    btnSec1E.BackColor = RedOff;
-                                    btnSec1F.BackColor = RedOn;
-                                    btnSec1G.BackColor = RedOn;
+                                    btnSec1A.BackColor = TimeColor1;
+                                    btnSec1B.BackColor = TimeColor1;
+                                    btnSec1C.BackColor = TimeColor1;
+                                    btnSec1D.BackColor = TimeColor1;
+                                    btnSec1E.BackColor = TimeColor0;
+                                    btnSec1F.BackColor = TimeColor1;
+                                    btnSec1G.BackColor = TimeColor1;
                                     break;
                             }
                             break;
@@ -211,103 +211,103 @@ namespace SevenSegmentClock
                             switch (num)
                             {
                                 case 0:
-                                    btnSec2A.BackColor = RedOn;
-                                    btnSec2B.BackColor = RedOn;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOn;
-                                    btnSec2E.BackColor = RedOn;
-                                    btnSec2F.BackColor = RedOn;
-                                    btnSec2G.BackColor = RedOff;
+                                    btnSec2A.BackColor = TimeColor1;
+                                    btnSec2B.BackColor = TimeColor1;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor1;
+                                    btnSec2E.BackColor = TimeColor1;
+                                    btnSec2F.BackColor = TimeColor1;
+                                    btnSec2G.BackColor = TimeColor0;
                                     break;
 
                                 case 1:
-                                    btnSec2A.BackColor = RedOff;
-                                    btnSec2B.BackColor = RedOn;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOff;
-                                    btnSec2E.BackColor = RedOff;
-                                    btnSec2F.BackColor = RedOff;
-                                    btnSec2G.BackColor = RedOff;
+                                    btnSec2A.BackColor = TimeColor0;
+                                    btnSec2B.BackColor = TimeColor1;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor0;
+                                    btnSec2E.BackColor = TimeColor0;
+                                    btnSec2F.BackColor = TimeColor0;
+                                    btnSec2G.BackColor = TimeColor0;
                                     break;
 
                                 case 2:
-                                    btnSec2A.BackColor = RedOn;
-                                    btnSec2B.BackColor = RedOn;
-                                    btnSec2C.BackColor = RedOff;
-                                    btnSec2D.BackColor = RedOn;
-                                    btnSec2E.BackColor = RedOn;
-                                    btnSec2F.BackColor = RedOff;
-                                    btnSec2G.BackColor = RedOn;
+                                    btnSec2A.BackColor = TimeColor1;
+                                    btnSec2B.BackColor = TimeColor1;
+                                    btnSec2C.BackColor = TimeColor0;
+                                    btnSec2D.BackColor = TimeColor1;
+                                    btnSec2E.BackColor = TimeColor1;
+                                    btnSec2F.BackColor = TimeColor0;
+                                    btnSec2G.BackColor = TimeColor1;
                                     break;
 
                                 case 3:
-                                    btnSec2A.BackColor = RedOn;
-                                    btnSec2B.BackColor = RedOn;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOn;
-                                    btnSec2E.BackColor = RedOff;
-                                    btnSec2F.BackColor = RedOff;
-                                    btnSec2G.BackColor = RedOn;
+                                    btnSec2A.BackColor = TimeColor1;
+                                    btnSec2B.BackColor = TimeColor1;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor1;
+                                    btnSec2E.BackColor = TimeColor0;
+                                    btnSec2F.BackColor = TimeColor0;
+                                    btnSec2G.BackColor = TimeColor1;
                                     break;
 
                                 case 4:
-                                    btnSec2A.BackColor = RedOff;
-                                    btnSec2B.BackColor = RedOn;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOff;
-                                    btnSec2E.BackColor = RedOff;
-                                    btnSec2F.BackColor = RedOn;
-                                    btnSec2G.BackColor = RedOn;
+                                    btnSec2A.BackColor = TimeColor0;
+                                    btnSec2B.BackColor = TimeColor1;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor0;
+                                    btnSec2E.BackColor = TimeColor0;
+                                    btnSec2F.BackColor = TimeColor1;
+                                    btnSec2G.BackColor = TimeColor1;
                                     break;
 
                                 case 5:
-                                    btnSec2A.BackColor = RedOn;
-                                    btnSec2B.BackColor = RedOff;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOn;
-                                    btnSec2E.BackColor = RedOff;
-                                    btnSec2F.BackColor = RedOn;
-                                    btnSec2G.BackColor = RedOn;
+                                    btnSec2A.BackColor = TimeColor1;
+                                    btnSec2B.BackColor = TimeColor0;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor1;
+                                    btnSec2E.BackColor = TimeColor0;
+                                    btnSec2F.BackColor = TimeColor1;
+                                    btnSec2G.BackColor = TimeColor1;
                                     break;
 
                                 case 6:
-                                    btnSec2A.BackColor = RedOn;
-                                    btnSec2B.BackColor = RedOff;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOn;
-                                    btnSec2E.BackColor = RedOn;
-                                    btnSec2F.BackColor = RedOn;
-                                    btnSec2G.BackColor = RedOn;
+                                    btnSec2A.BackColor = TimeColor1;
+                                    btnSec2B.BackColor = TimeColor0;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor1;
+                                    btnSec2E.BackColor = TimeColor1;
+                                    btnSec2F.BackColor = TimeColor1;
+                                    btnSec2G.BackColor = TimeColor1;
                                     break;
 
                                 case 7:
-                                    btnSec2A.BackColor = RedOn;
-                                    btnSec2B.BackColor = RedOn;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOff;
-                                    btnSec2E.BackColor = RedOff;
-                                    btnSec2F.BackColor = RedOff;
-                                    btnSec2G.BackColor = RedOff;
+                                    btnSec2A.BackColor = TimeColor1;
+                                    btnSec2B.BackColor = TimeColor1;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor0;
+                                    btnSec2E.BackColor = TimeColor0;
+                                    btnSec2F.BackColor = TimeColor0;
+                                    btnSec2G.BackColor = TimeColor0;
                                     break;
 
                                 case 8:
-                                    btnSec2A.BackColor = RedOn;
-                                    btnSec2B.BackColor = RedOn;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOn;
-                                    btnSec2E.BackColor = RedOn;
-                                    btnSec2F.BackColor = RedOn;
-                                    btnSec2G.BackColor = RedOn;
+                                    btnSec2A.BackColor = TimeColor1;
+                                    btnSec2B.BackColor = TimeColor1;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor1;
+                                    btnSec2E.BackColor = TimeColor1;
+                                    btnSec2F.BackColor = TimeColor1;
+                                    btnSec2G.BackColor = TimeColor1;
                                     break;
 
                                 case 9:
-                                    btnSec2A.BackColor = RedOn;
-                                    btnSec2B.BackColor = RedOn;
-                                    btnSec2C.BackColor = RedOn;
-                                    btnSec2D.BackColor = RedOn;
-                                    btnSec2E.BackColor = RedOff;
-                                    btnSec2F.BackColor = RedOn;
-                                    btnSec2G.BackColor = RedOn;
+                                    btnSec2A.BackColor = TimeColor1;
+                                    btnSec2B.BackColor = TimeColor1;
+                                    btnSec2C.BackColor = TimeColor1;
+                                    btnSec2D.BackColor = TimeColor1;
+                                    btnSec2E.BackColor = TimeColor0;
+                                    btnSec2F.BackColor = TimeColor1;
+                                    btnSec2G.BackColor = TimeColor1;
                                     break;
                             }
                             break;
@@ -321,103 +321,103 @@ namespace SevenSegmentClock
                             switch (num)
                             {
                                 case 0:
-                                    btnMin1A.BackColor = RedOn;
-                                    btnMin1B.BackColor = RedOn;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOn;
-                                    btnMin1E.BackColor = RedOn;
-                                    btnMin1F.BackColor = RedOn;
-                                    btnMin1G.BackColor = RedOff;
+                                    btnMin1A.BackColor = TimeColor1;
+                                    btnMin1B.BackColor = TimeColor1;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor1;
+                                    btnMin1E.BackColor = TimeColor1;
+                                    btnMin1F.BackColor = TimeColor1;
+                                    btnMin1G.BackColor = TimeColor0;
                                     break;
 
                                 case 1:
-                                    btnMin1A.BackColor = RedOff;
-                                    btnMin1B.BackColor = RedOn;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOff;
-                                    btnMin1E.BackColor = RedOff;
-                                    btnMin1F.BackColor = RedOff;
-                                    btnMin1G.BackColor = RedOff;
+                                    btnMin1A.BackColor = TimeColor0;
+                                    btnMin1B.BackColor = TimeColor1;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor0;
+                                    btnMin1E.BackColor = TimeColor0;
+                                    btnMin1F.BackColor = TimeColor0;
+                                    btnMin1G.BackColor = TimeColor0;
                                     break;
 
                                 case 2:
-                                    btnMin1A.BackColor = RedOn;
-                                    btnMin1B.BackColor = RedOn;
-                                    btnMin1C.BackColor = RedOff;
-                                    btnMin1D.BackColor = RedOn;
-                                    btnMin1E.BackColor = RedOn;
-                                    btnMin1F.BackColor = RedOff;
-                                    btnMin1G.BackColor = RedOn;
+                                    btnMin1A.BackColor = TimeColor1;
+                                    btnMin1B.BackColor = TimeColor1;
+                                    btnMin1C.BackColor = TimeColor0;
+                                    btnMin1D.BackColor = TimeColor1;
+                                    btnMin1E.BackColor = TimeColor1;
+                                    btnMin1F.BackColor = TimeColor0;
+                                    btnMin1G.BackColor = TimeColor1;
                                     break;
 
                                 case 3:
-                                    btnMin1A.BackColor = RedOn;
-                                    btnMin1B.BackColor = RedOn;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOn;
-                                    btnMin1E.BackColor = RedOff;
-                                    btnMin1F.BackColor = RedOff;
-                                    btnMin1G.BackColor = RedOn;
+                                    btnMin1A.BackColor = TimeColor1;
+                                    btnMin1B.BackColor = TimeColor1;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor1;
+                                    btnMin1E.BackColor = TimeColor0;
+                                    btnMin1F.BackColor = TimeColor0;
+                                    btnMin1G.BackColor = TimeColor1;
                                     break;
 
                                 case 4:
-                                    btnMin1A.BackColor = RedOff;
-                                    btnMin1B.BackColor = RedOn;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOff;
-                                    btnMin1E.BackColor = RedOff;
-                                    btnMin1F.BackColor = RedOn;
-                                    btnMin1G.BackColor = RedOn;
+                                    btnMin1A.BackColor = TimeColor0;
+                                    btnMin1B.BackColor = TimeColor1;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor0;
+                                    btnMin1E.BackColor = TimeColor0;
+                                    btnMin1F.BackColor = TimeColor1;
+                                    btnMin1G.BackColor = TimeColor1;
                                     break;
 
                                 case 5:
-                                    btnMin1A.BackColor = RedOn;
-                                    btnMin1B.BackColor = RedOff;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOn;
-                                    btnMin1E.BackColor = RedOff;
-                                    btnMin1F.BackColor = RedOn;
-                                    btnMin1G.BackColor = RedOn;
+                                    btnMin1A.BackColor = TimeColor1;
+                                    btnMin1B.BackColor = TimeColor0;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor1;
+                                    btnMin1E.BackColor = TimeColor0;
+                                    btnMin1F.BackColor = TimeColor1;
+                                    btnMin1G.BackColor = TimeColor1;
                                     break;
 
                                 case 6:
-                                    btnMin1A.BackColor = RedOn;
-                                    btnMin1B.BackColor = RedOff;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOn;
-                                    btnMin1E.BackColor = RedOn;
-                                    btnMin1F.BackColor = RedOn;
-                                    btnMin1G.BackColor = RedOn;
+                                    btnMin1A.BackColor = TimeColor1;
+                                    btnMin1B.BackColor = TimeColor0;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor1;
+                                    btnMin1E.BackColor = TimeColor1;
+                                    btnMin1F.BackColor = TimeColor1;
+                                    btnMin1G.BackColor = TimeColor1;
                                     break;
 
                                 case 7:
-                                    btnMin1A.BackColor = RedOn;
-                                    btnMin1B.BackColor = RedOn;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOff;
-                                    btnMin1E.BackColor = RedOff;
-                                    btnMin1F.BackColor = RedOff;
-                                    btnMin1G.BackColor = RedOff;
+                                    btnMin1A.BackColor = TimeColor1;
+                                    btnMin1B.BackColor = TimeColor1;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor0;
+                                    btnMin1E.BackColor = TimeColor0;
+                                    btnMin1F.BackColor = TimeColor0;
+                                    btnMin1G.BackColor = TimeColor0;
                                     break;
 
                                 case 8:
-                                    btnMin1A.BackColor = RedOn;
-                                    btnMin1B.BackColor = RedOn;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOn;
-                                    btnMin1E.BackColor = RedOn;
-                                    btnMin1F.BackColor = RedOn;
-                                    btnMin1G.BackColor = RedOn;
+                                    btnMin1A.BackColor = TimeColor1;
+                                    btnMin1B.BackColor = TimeColor1;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor1;
+                                    btnMin1E.BackColor = TimeColor1;
+                                    btnMin1F.BackColor = TimeColor1;
+                                    btnMin1G.BackColor = TimeColor1;
                                     break;
 
                                 case 9:
-                                    btnMin1A.BackColor = RedOn;
-                                    btnMin1B.BackColor = RedOn;
-                                    btnMin1C.BackColor = RedOn;
-                                    btnMin1D.BackColor = RedOn;
-                                    btnMin1E.BackColor = RedOff;
-                                    btnMin1F.BackColor = RedOn;
-                                    btnMin1G.BackColor = RedOn;
+                                    btnMin1A.BackColor = TimeColor1;
+                                    btnMin1B.BackColor = TimeColor1;
+                                    btnMin1C.BackColor = TimeColor1;
+                                    btnMin1D.BackColor = TimeColor1;
+                                    btnMin1E.BackColor = TimeColor0;
+                                    btnMin1F.BackColor = TimeColor1;
+                                    btnMin1G.BackColor = TimeColor1;
                                     break;
                             }
                             break;
@@ -426,103 +426,103 @@ namespace SevenSegmentClock
                             switch (num)
                             {
                                 case 0:
-                                    btnMin2A.BackColor = RedOn;
-                                    btnMin2B.BackColor = RedOn;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOn;
-                                    btnMin2E.BackColor = RedOn;
-                                    btnMin2F.BackColor = RedOn;
-                                    btnMin2G.BackColor = RedOff;
+                                    btnMin2A.BackColor = TimeColor1;
+                                    btnMin2B.BackColor = TimeColor1;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor1;
+                                    btnMin2E.BackColor = TimeColor1;
+                                    btnMin2F.BackColor = TimeColor1;
+                                    btnMin2G.BackColor = TimeColor0;
                                     break;
 
                                 case 1:
-                                    btnMin2A.BackColor = RedOff;
-                                    btnMin2B.BackColor = RedOn;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOff;
-                                    btnMin2E.BackColor = RedOff;
-                                    btnMin2F.BackColor = RedOff;
-                                    btnMin2G.BackColor = RedOff;
+                                    btnMin2A.BackColor = TimeColor0;
+                                    btnMin2B.BackColor = TimeColor1;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor0;
+                                    btnMin2E.BackColor = TimeColor0;
+                                    btnMin2F.BackColor = TimeColor0;
+                                    btnMin2G.BackColor = TimeColor0;
                                     break;
 
                                 case 2:
-                                    btnMin2A.BackColor = RedOn;
-                                    btnMin2B.BackColor = RedOn;
-                                    btnMin2C.BackColor = RedOff;
-                                    btnMin2D.BackColor = RedOn;
-                                    btnMin2E.BackColor = RedOn;
-                                    btnMin2F.BackColor = RedOff;
-                                    btnMin2G.BackColor = RedOn;
+                                    btnMin2A.BackColor = TimeColor1;
+                                    btnMin2B.BackColor = TimeColor1;
+                                    btnMin2C.BackColor = TimeColor0;
+                                    btnMin2D.BackColor = TimeColor1;
+                                    btnMin2E.BackColor = TimeColor1;
+                                    btnMin2F.BackColor = TimeColor0;
+                                    btnMin2G.BackColor = TimeColor1;
                                     break;
 
                                 case 3:
-                                    btnMin2A.BackColor = RedOn;
-                                    btnMin2B.BackColor = RedOn;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOn;
-                                    btnMin2E.BackColor = RedOff;
-                                    btnMin2F.BackColor = RedOff;
-                                    btnMin2G.BackColor = RedOn;
+                                    btnMin2A.BackColor = TimeColor1;
+                                    btnMin2B.BackColor = TimeColor1;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor1;
+                                    btnMin2E.BackColor = TimeColor0;
+                                    btnMin2F.BackColor = TimeColor0;
+                                    btnMin2G.BackColor = TimeColor1;
                                     break;
 
                                 case 4:
-                                    btnMin2A.BackColor = RedOff;
-                                    btnMin2B.BackColor = RedOn;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOff;
-                                    btnMin2E.BackColor = RedOff;
-                                    btnMin2F.BackColor = RedOn;
-                                    btnMin2G.BackColor = RedOn;
+                                    btnMin2A.BackColor = TimeColor0;
+                                    btnMin2B.BackColor = TimeColor1;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor0;
+                                    btnMin2E.BackColor = TimeColor0;
+                                    btnMin2F.BackColor = TimeColor1;
+                                    btnMin2G.BackColor = TimeColor1;
                                     break;
 
                                 case 5:
-                                    btnMin2A.BackColor = RedOn;
-                                    btnMin2B.BackColor = RedOff;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOn;
-                                    btnMin2E.BackColor = RedOff;
-                                    btnMin2F.BackColor = RedOn;
-                                    btnMin2G.BackColor = RedOn;
+                                    btnMin2A.BackColor = TimeColor1;
+                                    btnMin2B.BackColor = TimeColor0;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor1;
+                                    btnMin2E.BackColor = TimeColor0;
+                                    btnMin2F.BackColor = TimeColor1;
+                                    btnMin2G.BackColor = TimeColor1;
                                     break;
 
                                 case 6:
-                                    btnMin2A.BackColor = RedOn;
-                                    btnMin2B.BackColor = RedOff;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOn;
-                                    btnMin2E.BackColor = RedOn;
-                                    btnMin2F.BackColor = RedOn;
-                                    btnMin2G.BackColor = RedOn;
+                                    btnMin2A.BackColor = TimeColor1;
+                                    btnMin2B.BackColor = TimeColor0;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor1;
+                                    btnMin2E.BackColor = TimeColor1;
+                                    btnMin2F.BackColor = TimeColor1;
+                                    btnMin2G.BackColor = TimeColor1;
                                     break;
 
                                 case 7:
-                                    btnMin2A.BackColor = RedOn;
-                                    btnMin2B.BackColor = RedOn;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOff;
-                                    btnMin2E.BackColor = RedOff;
-                                    btnMin2F.BackColor = RedOff;
-                                    btnMin2G.BackColor = RedOff;
+                                    btnMin2A.BackColor = TimeColor1;
+                                    btnMin2B.BackColor = TimeColor1;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor0;
+                                    btnMin2E.BackColor = TimeColor0;
+                                    btnMin2F.BackColor = TimeColor0;
+                                    btnMin2G.BackColor = TimeColor0;
                                     break;
 
                                 case 8:
-                                    btnMin2A.BackColor = RedOn;
-                                    btnMin2B.BackColor = RedOn;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOn;
-                                    btnMin2E.BackColor = RedOn;
-                                    btnMin2F.BackColor = RedOn;
-                                    btnMin2G.BackColor = RedOn;
+                                    btnMin2A.BackColor = TimeColor1;
+                                    btnMin2B.BackColor = TimeColor1;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor1;
+                                    btnMin2E.BackColor = TimeColor1;
+                                    btnMin2F.BackColor = TimeColor1;
+                                    btnMin2G.BackColor = TimeColor1;
                                     break;
 
                                 case 9:
-                                    btnMin2A.BackColor = RedOn;
-                                    btnMin2B.BackColor = RedOn;
-                                    btnMin2C.BackColor = RedOn;
-                                    btnMin2D.BackColor = RedOn;
-                                    btnMin2E.BackColor = RedOff;
-                                    btnMin2F.BackColor = RedOn;
-                                    btnMin2G.BackColor = RedOn;
+                                    btnMin2A.BackColor = TimeColor1;
+                                    btnMin2B.BackColor = TimeColor1;
+                                    btnMin2C.BackColor = TimeColor1;
+                                    btnMin2D.BackColor = TimeColor1;
+                                    btnMin2E.BackColor = TimeColor0;
+                                    btnMin2F.BackColor = TimeColor1;
+                                    btnMin2G.BackColor = TimeColor1;
                                     break;
                             }
                             break;
@@ -536,103 +536,103 @@ namespace SevenSegmentClock
                             switch (num)
                             {
                                 case 0:
-                                    btnHrs1A.BackColor = RedOn;
-                                    btnHrs1B.BackColor = RedOn;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOn;
-                                    btnHrs1E.BackColor = RedOn;
-                                    btnHrs1F.BackColor = RedOn;
-                                    btnHrs1G.BackColor = RedOff;
+                                    btnHrs1A.BackColor = TimeColor1;
+                                    btnHrs1B.BackColor = TimeColor1;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor1;
+                                    btnHrs1E.BackColor = TimeColor1;
+                                    btnHrs1F.BackColor = TimeColor1;
+                                    btnHrs1G.BackColor = TimeColor0;
                                     break;
 
                                 case 1:
-                                    btnHrs1A.BackColor = RedOff;
-                                    btnHrs1B.BackColor = RedOn;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOff;
-                                    btnHrs1E.BackColor = RedOff;
-                                    btnHrs1F.BackColor = RedOff;
-                                    btnHrs1G.BackColor = RedOff;
+                                    btnHrs1A.BackColor = TimeColor0;
+                                    btnHrs1B.BackColor = TimeColor1;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor0;
+                                    btnHrs1E.BackColor = TimeColor0;
+                                    btnHrs1F.BackColor = TimeColor0;
+                                    btnHrs1G.BackColor = TimeColor0;
                                     break;
 
                                 case 2:
-                                    btnHrs1A.BackColor = RedOn;
-                                    btnHrs1B.BackColor = RedOn;
-                                    btnHrs1C.BackColor = RedOff;
-                                    btnHrs1D.BackColor = RedOn;
-                                    btnHrs1E.BackColor = RedOn;
-                                    btnHrs1F.BackColor = RedOff;
-                                    btnHrs1G.BackColor = RedOn;
+                                    btnHrs1A.BackColor = TimeColor1;
+                                    btnHrs1B.BackColor = TimeColor1;
+                                    btnHrs1C.BackColor = TimeColor0;
+                                    btnHrs1D.BackColor = TimeColor1;
+                                    btnHrs1E.BackColor = TimeColor1;
+                                    btnHrs1F.BackColor = TimeColor0;
+                                    btnHrs1G.BackColor = TimeColor1;
                                     break;
 
                                 case 3:
-                                    btnHrs1A.BackColor = RedOn;
-                                    btnHrs1B.BackColor = RedOn;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOn;
-                                    btnHrs1E.BackColor = RedOff;
-                                    btnHrs1F.BackColor = RedOff;
-                                    btnHrs1G.BackColor = RedOn;
+                                    btnHrs1A.BackColor = TimeColor1;
+                                    btnHrs1B.BackColor = TimeColor1;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor1;
+                                    btnHrs1E.BackColor = TimeColor0;
+                                    btnHrs1F.BackColor = TimeColor0;
+                                    btnHrs1G.BackColor = TimeColor1;
                                     break;
 
                                 case 4:
-                                    btnHrs1A.BackColor = RedOff;
-                                    btnHrs1B.BackColor = RedOn;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOff;
-                                    btnHrs1E.BackColor = RedOff;
-                                    btnHrs1F.BackColor = RedOn;
-                                    btnHrs1G.BackColor = RedOn;
+                                    btnHrs1A.BackColor = TimeColor0;
+                                    btnHrs1B.BackColor = TimeColor1;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor0;
+                                    btnHrs1E.BackColor = TimeColor0;
+                                    btnHrs1F.BackColor = TimeColor1;
+                                    btnHrs1G.BackColor = TimeColor1;
                                     break;
 
                                 case 5:
-                                    btnHrs1A.BackColor = RedOn;
-                                    btnHrs1B.BackColor = RedOff;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOn;
-                                    btnHrs1E.BackColor = RedOff;
-                                    btnHrs1F.BackColor = RedOn;
-                                    btnHrs1G.BackColor = RedOn;
+                                    btnHrs1A.BackColor = TimeColor1;
+                                    btnHrs1B.BackColor = TimeColor0;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor1;
+                                    btnHrs1E.BackColor = TimeColor0;
+                                    btnHrs1F.BackColor = TimeColor1;
+                                    btnHrs1G.BackColor = TimeColor1;
                                     break;
 
                                 case 6:
-                                    btnHrs1A.BackColor = RedOn;
-                                    btnHrs1B.BackColor = RedOff;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOn;
-                                    btnHrs1E.BackColor = RedOn;
-                                    btnHrs1F.BackColor = RedOn;
-                                    btnHrs1G.BackColor = RedOn;
+                                    btnHrs1A.BackColor = TimeColor1;
+                                    btnHrs1B.BackColor = TimeColor0;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor1;
+                                    btnHrs1E.BackColor = TimeColor1;
+                                    btnHrs1F.BackColor = TimeColor1;
+                                    btnHrs1G.BackColor = TimeColor1;
                                     break;
 
                                 case 7:
-                                    btnHrs1A.BackColor = RedOn;
-                                    btnHrs1B.BackColor = RedOn;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOff;
-                                    btnHrs1E.BackColor = RedOff;
-                                    btnHrs1F.BackColor = RedOff;
-                                    btnHrs1G.BackColor = RedOff;
+                                    btnHrs1A.BackColor = TimeColor1;
+                                    btnHrs1B.BackColor = TimeColor1;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor0;
+                                    btnHrs1E.BackColor = TimeColor0;
+                                    btnHrs1F.BackColor = TimeColor0;
+                                    btnHrs1G.BackColor = TimeColor0;
                                     break;
 
                                 case 8:
-                                    btnHrs1A.BackColor = RedOn;
-                                    btnHrs1B.BackColor = RedOn;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOn;
-                                    btnHrs1E.BackColor = RedOn;
-                                    btnHrs1F.BackColor = RedOn;
-                                    btnHrs1G.BackColor = RedOn;
+                                    btnHrs1A.BackColor = TimeColor1;
+                                    btnHrs1B.BackColor = TimeColor1;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor1;
+                                    btnHrs1E.BackColor = TimeColor1;
+                                    btnHrs1F.BackColor = TimeColor1;
+                                    btnHrs1G.BackColor = TimeColor1;
                                     break;
 
                                 case 9:
-                                    btnHrs1A.BackColor = RedOn;
-                                    btnHrs1B.BackColor = RedOn;
-                                    btnHrs1C.BackColor = RedOn;
-                                    btnHrs1D.BackColor = RedOn;
-                                    btnHrs1E.BackColor = RedOff;
-                                    btnHrs1F.BackColor = RedOn;
-                                    btnHrs1G.BackColor = RedOn;
+                                    btnHrs1A.BackColor = TimeColor1;
+                                    btnHrs1B.BackColor = TimeColor1;
+                                    btnHrs1C.BackColor = TimeColor1;
+                                    btnHrs1D.BackColor = TimeColor1;
+                                    btnHrs1E.BackColor = TimeColor0;
+                                    btnHrs1F.BackColor = TimeColor1;
+                                    btnHrs1G.BackColor = TimeColor1;
                                     break;
                             }
                             break;
@@ -641,103 +641,103 @@ namespace SevenSegmentClock
                             switch (num)
                             {
                                 case 0:
-                                    btnHrs2A.BackColor = RedOn;
-                                    btnHrs2B.BackColor = RedOn;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOn;
-                                    btnHrs2E.BackColor = RedOn;
-                                    btnHrs2F.BackColor = RedOn;
-                                    btnHrs2G.BackColor = RedOff;
+                                    btnHrs2A.BackColor = TimeColor1;
+                                    btnHrs2B.BackColor = TimeColor1;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor1;
+                                    btnHrs2E.BackColor = TimeColor1;
+                                    btnHrs2F.BackColor = TimeColor1;
+                                    btnHrs2G.BackColor = TimeColor0;
                                     break;
 
                                 case 1:
-                                    btnHrs2A.BackColor = RedOff;
-                                    btnHrs2B.BackColor = RedOn;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOff;
-                                    btnHrs2E.BackColor = RedOff;
-                                    btnHrs2F.BackColor = RedOff;
-                                    btnHrs2G.BackColor = RedOff;
+                                    btnHrs2A.BackColor = TimeColor0;
+                                    btnHrs2B.BackColor = TimeColor1;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor0;
+                                    btnHrs2E.BackColor = TimeColor0;
+                                    btnHrs2F.BackColor = TimeColor0;
+                                    btnHrs2G.BackColor = TimeColor0;
                                     break;
 
                                 case 2:
-                                    btnHrs2A.BackColor = RedOn;
-                                    btnHrs2B.BackColor = RedOn;
-                                    btnHrs2C.BackColor = RedOff;
-                                    btnHrs2D.BackColor = RedOn;
-                                    btnHrs2E.BackColor = RedOn;
-                                    btnHrs2F.BackColor = RedOff;
-                                    btnHrs2G.BackColor = RedOn;
+                                    btnHrs2A.BackColor = TimeColor1;
+                                    btnHrs2B.BackColor = TimeColor1;
+                                    btnHrs2C.BackColor = TimeColor0;
+                                    btnHrs2D.BackColor = TimeColor1;
+                                    btnHrs2E.BackColor = TimeColor1;
+                                    btnHrs2F.BackColor = TimeColor0;
+                                    btnHrs2G.BackColor = TimeColor1;
                                     break;
 
                                 case 3:
-                                    btnHrs2A.BackColor = RedOn;
-                                    btnHrs2B.BackColor = RedOn;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOn;
-                                    btnHrs2E.BackColor = RedOff;
-                                    btnHrs2F.BackColor = RedOff;
-                                    btnHrs2G.BackColor = RedOn;
+                                    btnHrs2A.BackColor = TimeColor1;
+                                    btnHrs2B.BackColor = TimeColor1;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor1;
+                                    btnHrs2E.BackColor = TimeColor0;
+                                    btnHrs2F.BackColor = TimeColor0;
+                                    btnHrs2G.BackColor = TimeColor1;
                                     break;
 
                                 case 4:
-                                    btnHrs2A.BackColor = RedOff;
-                                    btnHrs2B.BackColor = RedOn;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOff;
-                                    btnHrs2E.BackColor = RedOff;
-                                    btnHrs2F.BackColor = RedOn;
-                                    btnHrs2G.BackColor = RedOn;
+                                    btnHrs2A.BackColor = TimeColor0;
+                                    btnHrs2B.BackColor = TimeColor1;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor0;
+                                    btnHrs2E.BackColor = TimeColor0;
+                                    btnHrs2F.BackColor = TimeColor1;
+                                    btnHrs2G.BackColor = TimeColor1;
                                     break;
 
                                 case 5:
-                                    btnHrs2A.BackColor = RedOn;
-                                    btnHrs2B.BackColor = RedOff;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOn;
-                                    btnHrs2E.BackColor = RedOff;
-                                    btnHrs2F.BackColor = RedOn;
-                                    btnHrs2G.BackColor = RedOn;
+                                    btnHrs2A.BackColor = TimeColor1;
+                                    btnHrs2B.BackColor = TimeColor0;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor1;
+                                    btnHrs2E.BackColor = TimeColor0;
+                                    btnHrs2F.BackColor = TimeColor1;
+                                    btnHrs2G.BackColor = TimeColor1;
                                     break;
 
                                 case 6:
-                                    btnHrs2A.BackColor = RedOn;
-                                    btnHrs2B.BackColor = RedOff;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOn;
-                                    btnHrs2E.BackColor = RedOn;
-                                    btnHrs2F.BackColor = RedOn;
-                                    btnHrs2G.BackColor = RedOn;
+                                    btnHrs2A.BackColor = TimeColor1;
+                                    btnHrs2B.BackColor = TimeColor0;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor1;
+                                    btnHrs2E.BackColor = TimeColor1;
+                                    btnHrs2F.BackColor = TimeColor1;
+                                    btnHrs2G.BackColor = TimeColor1;
                                     break;
 
                                 case 7:
-                                    btnHrs2A.BackColor = RedOn;
-                                    btnHrs2B.BackColor = RedOn;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOff;
-                                    btnHrs2E.BackColor = RedOff;
-                                    btnHrs2F.BackColor = RedOff;
-                                    btnHrs2G.BackColor = RedOff;
+                                    btnHrs2A.BackColor = TimeColor1;
+                                    btnHrs2B.BackColor = TimeColor1;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor0;
+                                    btnHrs2E.BackColor = TimeColor0;
+                                    btnHrs2F.BackColor = TimeColor0;
+                                    btnHrs2G.BackColor = TimeColor0;
                                     break;
 
                                 case 8:
-                                    btnHrs2A.BackColor = RedOn;
-                                    btnHrs2B.BackColor = RedOn;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOn;
-                                    btnHrs2E.BackColor = RedOn;
-                                    btnHrs2F.BackColor = RedOn;
-                                    btnHrs2G.BackColor = RedOn;
+                                    btnHrs2A.BackColor = TimeColor1;
+                                    btnHrs2B.BackColor = TimeColor1;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor1;
+                                    btnHrs2E.BackColor = TimeColor1;
+                                    btnHrs2F.BackColor = TimeColor1;
+                                    btnHrs2G.BackColor = TimeColor1;
                                     break;
 
                                 case 9:
-                                    btnHrs2A.BackColor = RedOn;
-                                    btnHrs2B.BackColor = RedOn;
-                                    btnHrs2C.BackColor = RedOn;
-                                    btnHrs2D.BackColor = RedOn;
-                                    btnHrs2E.BackColor = RedOff;
-                                    btnHrs2F.BackColor = RedOn;
-                                    btnHrs2G.BackColor = RedOn;
+                                    btnHrs2A.BackColor = TimeColor1;
+                                    btnHrs2B.BackColor = TimeColor1;
+                                    btnHrs2C.BackColor = TimeColor1;
+                                    btnHrs2D.BackColor = TimeColor1;
+                                    btnHrs2E.BackColor = TimeColor0;
+                                    btnHrs2F.BackColor = TimeColor1;
+                                    btnHrs2G.BackColor = TimeColor1;
                                     break;
                             }
                             break;
@@ -753,27 +753,27 @@ namespace SevenSegmentClock
         {
             if (flag == 1)
             {
-                btnBlinker.BackColor = RedOff;
+                btnBlinker.BackColor = TimeColor0;
                 flag *= -1;
             }
             else
             {
-                btnBlinker.BackColor = RedOn;
+                btnBlinker.BackColor = TimeColor1;
                 flag *= -1;
             }
         }
 
         private void Meridiem(string state)
         {
-            if (state == "am")
+            if (state == "AM")
             {
-                labelMeridiemAM.ForeColor = RedOn;
-                labelMeridiemPM.ForeColor = RedOff;
+                labelMeridiemAM.ForeColor = TimeColor1;
+                labelMeridiemPM.ForeColor = Color.Black;
             }
-            else if (state == "pm")
+            else if (state == "PM")
             {
-                labelMeridiemAM.ForeColor = RedOff;
-                labelMeridiemPM.ForeColor = RedOn;
+                labelMeridiemAM.ForeColor = Color.Black;
+                labelMeridiemPM.ForeColor = TimeColor1;
             }
         }
 
@@ -783,7 +783,7 @@ namespace SevenSegmentClock
             {
                 hourFormat = "hh";
                 btnHourFormat.Text = "To 24hr Format";
-            } 
+            }
             else if (hourFormat == "hh")
             {
                 hourFormat = "HH";
@@ -797,7 +797,7 @@ namespace SevenSegmentClock
             {
                 if (x.Tag == "dayBtn")
                 {
-                    x.BackColor = GreenOff;
+                    x.BackColor = DayColor0;
                 }
             }
 
@@ -855,49 +855,49 @@ namespace SevenSegmentClock
                 case "Mon":
                     foreach (Button x in Monday)
                     {
-                        x.BackColor = GreenOn;
+                        x.BackColor = DayColor1;
                     }
                     break;
 
                 case "Tue":
                     foreach (Button x in Tuesday)
                     {
-                        x.BackColor = GreenOn;
+                        x.BackColor = DayColor1;
                     }
                     break;
 
                 case "Wed":
                     foreach (Button x in Wednesday)
                     {
-                        x.BackColor = GreenOn;
+                        x.BackColor = DayColor1;
                     }
                     break;
 
                 case "Thu":
                     foreach (Button x in Thursday)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Fri":
                     foreach (Button x in Friday)
                     {
-                        x.BackColor = GreenOn;
+                        x.BackColor = DayColor1;
                     }
                     break;
 
                 case "Sat":
                     foreach (Button x in Saturday)
                     {
-                        x.BackColor = GreenOn;
+                        x.BackColor = DayColor1;
                     }
                     break;
 
                 case "Sun":
                     foreach (Button x in Sunday)
                     {
-                        x.BackColor = GreenOn;
+                        x.BackColor = DayColor1;
                     }
                     break;
 
@@ -912,7 +912,7 @@ namespace SevenSegmentClock
             {
                 if (x.Tag == "monthBtn")
                 {
-                    x.BackColor = BlueOff;
+                    x.BackColor = DateColor2;
                 }
             }
 
@@ -1005,84 +1005,84 @@ namespace SevenSegmentClock
                 case "Jan":
                     foreach (Button x in January)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Feb":
                     foreach (Button x in February)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Mar":
                     foreach (Button x in March)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Apr":
                     foreach (Button x in April)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "May":
                     foreach (Button x in May)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Jun":
                     foreach (Button x in June)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Jul":
                     foreach (Button x in July)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Aug":
                     foreach (Button x in August)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Sep":
                     foreach (Button x in September)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Oct":
                     foreach (Button x in October)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Nov":
                     foreach (Button x in November)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "Dec":
                     foreach (Button x in December)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
@@ -1090,14 +1090,14 @@ namespace SevenSegmentClock
                     break;
             }
         }
-        
+
         private void DayDigitsController(string digits)
         {
             foreach (Control x in Controls)
             {
                 if (x.Tag == "dayDigitBtn")
                 {
-                    x.BackColor = BlueOff;
+                    x.BackColor = DateColor2;
                 }
             }
 
@@ -1173,305 +1173,305 @@ namespace SevenSegmentClock
                 case "01":
                     foreach (Button x in OnesOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "02":
                     foreach (Button x in OnesTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "03":
                     foreach (Button x in OnesThree)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "04":
                     foreach (Button x in OnesFour)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "05":
                     foreach (Button x in OnesFive)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "06":
                     foreach (Button x in OnesSix)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "07":
                     foreach (Button x in OnesSeven)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "08":
                     foreach (Button x in OnesEight)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "09":
                     foreach (Button x in OnesNine)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "10":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in Zero)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "11":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "12":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "13":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesThree)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "14":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesFour)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "15":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesFive)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "16":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesSix)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "17":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesSeven)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "18":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesEight)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "19":
                     foreach (Button x in TwosOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesNine)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "20":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in Zero)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "21":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "22":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "23":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesThree)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "24":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesFour)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "25":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesFive)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "26":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesSix)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "27":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesSeven)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "28":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesEight)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "29":
                     foreach (Button x in TwosTwo)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesNine)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "30":
                     foreach (Button x in TwosThree)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in Zero)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
                 case "31":
                     foreach (Button x in TwosThree)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     foreach (Button x in OnesOne)
                     {
-                        x.BackColor = BlueOn;
+                        x.BackColor = DateColor1;
                     }
                     break;
 
